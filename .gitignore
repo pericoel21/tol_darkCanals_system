@@ -1,0 +1,21 @@
+# Obsidian workspace/UI state
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/workspace.json.bak
+
+# Plugin data that's often local/machine-specific or noisy
+.obsidian/plugins/*/data.json
+
+# Cache & trash
+.trash/
+.obsidian/cache
+
+# OS cruft
+.DS_Store
+Thumbs.db
+
+# Obsidian Sync / other sync plugin state
+.obsidian/sync/
+
+# Sync conflicts
+*sync-conflict*

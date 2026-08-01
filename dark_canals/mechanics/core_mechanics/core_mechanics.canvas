@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"id":"9eac3ff3e6d6281f","type":"file","file":"dark_canals/mechanics/core_mechanics/coreMec_rollResolution.md","x":-1600,"y":-1300,"width":720,"height":1380},
+		{"id":"c9e786aff022a9a8","type":"file","file":"dark_canals/mechanics/core_mechanics/coreMec_whenToRoll.md","x":-1510,"y":-1980,"width":540,"height":560},
+		{"id":"e18a546ee172bc95","x":-660,"y":-1300,"width":660,"height":760,"type":"file","file":"dark_canals/mechanics/core_mechanics/coreMec_degreesOfSuccess.md"},
+		{"id":"9ed6f1ad32dadffc","x":-660,"y":-480,"width":660,"height":680,"type":"file","file":"dark_canals/mechanics/core_mechanics/coreMec_pushingRolls.md"},
+		{"id":"af999ad5f0e0166a","x":-2660,"y":-1560,"width":840,"height":2160,"type":"file","file":"dark_canals/mechanics/core_mechanics/coreMec_difficulty.md"}
+	],
+	"edges":[
+		{"id":"fa3b6b6721c68198","fromNode":"c9e786aff022a9a8","fromSide":"bottom","toNode":"9eac3ff3e6d6281f","toSide":"top"},
+		{"id":"daafeafc1d3f945a","fromNode":"9eac3ff3e6d6281f","fromSide":"right","toNode":"e18a546ee172bc95","toSide":"left"},
+		{"id":"6ce9b44ed939bd01","fromNode":"9eac3ff3e6d6281f","fromSide":"right","toNode":"9ed6f1ad32dadffc","toSide":"left"},
+		{"id":"a406366c0bef5111","fromNode":"9eac3ff3e6d6281f","fromSide":"left","toNode":"af999ad5f0e0166a","toSide":"right"}
+	]
+}

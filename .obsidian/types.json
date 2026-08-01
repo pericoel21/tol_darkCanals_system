@@ -1,0 +1,14 @@
+{
+  "types": {
+    "aliases": "aliases",
+    "cssclasses": "multitext",
+    "tags": "tags",
+    "Load": "number",
+    "Start date": "date",
+    "Type": "multitext",
+    "Keywords": "multitext",
+    "Status": "multitext",
+    "Author": "multitext",
+    "connections": "multitext"
+  }
+}

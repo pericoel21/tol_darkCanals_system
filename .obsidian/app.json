@@ -1,0 +1,19 @@
+{
+  "alwaysUpdateLinks": true,
+  "promptDelete": false,
+  "livePreview": false,
+  "showLineNumber": true,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "vault",
+  "defaultViewMode": "preview",
+  "strictLineBreaks": false,
+  "readableLineLength": false,
+  "propertiesInDocument": "hidden",
+  "smartIndentList": false,
+  "openBehavior": "file:vault/landing_page.canvas",
+  "attachmentFolderPath": "utility/files",
+  "newLinkFormat": "absolute",
+  "showUnsupportedFiles": true,
+  "trashOption": "local",
+  "showInlineTitle": false
+}

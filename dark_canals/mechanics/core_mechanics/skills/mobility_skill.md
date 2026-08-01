@@ -1,0 +1,23 @@
+---
+tags:
+  - core
+  - mechanic
+  - skill
+aliases:
+  - MOBILITY (AGILITY)
+  - MOBILITY
+connections:
+  - "[[agility_attr|AGILITY]]"
+description: For actions that requires speed or gross motor control
+---
+# `= this.file.aliases[0]`
+Associated [[dark_canals/mechanics/core_mechanics/coreMec_attributes|Attribute]]: `=this.connections[0]`
+
+> `= this.description`.
+
+Uses:
+- Climb.
+- Jump, parkour stuff.
+- Foot chases.
+- [[sneak|Sneak]], stay undetected.
+- [[dodge|Dodge]] attacks.

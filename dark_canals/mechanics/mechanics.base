@@ -1,0 +1,59 @@
+filters:
+  and:
+    - file.path.startsWith("dark_canals")
+formulas:
+  Beauty Name: aliases[0]
+  Associated Stat: connections[0]
+views:
+  - type: table
+    name: Core Mechanics
+    filters:
+      and:
+        - file.tags.containsAll("core", "mechanic")
+        - '!file.tags.containsAny("skill", "stat")'
+    order:
+      - file.name
+      - formula.Beauty Name
+      - description
+      - tags
+      - aliases
+    columnSize:
+      file.name: 37
+      note.description: 553
+      note.tags: 290
+      note.aliases: 196
+  - type: cards
+    name: Skills
+    filters:
+      and:
+        - file.tags.contains("skill")
+    groupBy:
+      property: formula.Associated Stat
+      direction: ASC
+    order:
+      - formula.Beauty Name
+      - description
+    sort:
+      - property: formula.Beauty Name
+        direction: ASC
+    columnSize:
+      file.name: 122
+      note.aliases: 196
+      note.description: 412
+    cardSize: 350
+  - type: table
+    name: Stats
+    filters:
+      and:
+        - file.tags.contains("stat")
+    order:
+      - file.name
+      - formula.Beauty Name
+      - description
+      - tags
+      - aliases
+    columnSize:
+      file.name: 32
+      note.description: 524
+      note.tags: 311
+      note.aliases: 196
