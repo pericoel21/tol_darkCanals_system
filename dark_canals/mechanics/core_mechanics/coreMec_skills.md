@@ -41,14 +41,14 @@ Skills work in combination with [[dark_canals/mechanics/core_mechanics/coreMec_a
 | ---------------------------------- | --------------------------- |
 | [[dark_canals/mechanics/core_mechanics/skills/skill_physique\|PHYSIQUE]]       | [[strength_attr\|STRENGTH]] |
 | [[dark_canals/mechanics/core_mechanics/skills/skill_fight\|FIGHT]]             | [[strength_attr\|STRENGTH]] |
-| [[dark_canals/mechanics/core_mechanics/skills/endure_skill\|ENDURE]]           | [[strength_attr\|STRENGTH]] |
-| [[dark_canals/mechanics/core_mechanics/skills/ballistics_skill\|BALLISTICS]]   | [[agility_attr\|AGILITY]]   |
-| [[dark_canals/mechanics/core_mechanics/skills/mobility_skill\|MOBILITY]]       | [[agility_attr\|AGILITY]]   |
+| [[dark_canals/mechanics/core_mechanics/skills/skill_endure\|ENDURE]]           | [[strength_attr\|STRENGTH]] |
+| [[dark_canals/mechanics/core_mechanics/skills/skill_ballistics\|BALLISTICS]]   | [[agility_attr\|AGILITY]]   |
+| [[dark_canals/mechanics/core_mechanics/skills/skill_mobility\|MOBILITY]]       | [[agility_attr\|AGILITY]]   |
 | [[dark_canals/mechanics/core_mechanics/skills/techne_skill\|TECHNE]]           | [[agility_attr\|AGILITY]]   |
 | [[dark_canals/mechanics/core_mechanics/skills/surgery_skill\|SURGERY]]         | [[wits_attr\|WITS]]         |
-| [[dark_canals/mechanics/core_mechanics/skills/observation_skill\|OBSERVATION]] | [[wits_attr\|WITS]]         |
-| [[dark_canals/mechanics/core_mechanics/skills/reason_skill\|REASON]]           | [[wits_attr\|WITS]]         |
-| [[appeal_skill\|APPEAL]]           | [[empathy_attr\|EMPATHY]]   |
-| [[insight_skill\|INSIGHT]]         | [[empathy_attr\|EMPATHY]]   |
-| [[connections_skill\|CONNECTIONS]] | [[empathy_attr\|EMPATHY]]   |
+| [[dark_canals/mechanics/core_mechanics/skills/skill_observation\|OBSERVATION]] | [[wits_attr\|WITS]]         |
+| [[dark_canals/mechanics/core_mechanics/skills/skill_reason\|REASON]]           | [[wits_attr\|WITS]]         |
+| [[dark_canals/mechanics/core_mechanics/skills/skill_appeal\|APPEAL]]           | [[empathy_attr\|EMPATHY]]   |
+| [[dark_canals/mechanics/core_mechanics/skills/skill_insight\|INSIGHT]]         | [[empathy_attr\|EMPATHY]]   |
+| [[dark_canals/mechanics/core_mechanics/skills/skill_connections\|CONNECTIONS]] | [[empathy_attr\|EMPATHY]]   |
 

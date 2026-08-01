@@ -18,7 +18,7 @@ Associated [[dark_canals/mechanics/core_mechanics/coreMec_attributes|Attribute]]
 Uses:
 - Read other people’s emotions.
 - Assess somebody's personality.
-- Resist somebody's appeal to emotion (usually through [[appeal_skill|APPEAL]]).
+- Resist somebody's appeal to emotion (usually through [[dark_canals/mechanics/core_mechanics/skills/skill_appeal|APPEAL]]).
 - Resist [[magic|Magic]].
 
 > [!tip] Assessing somebody's personality

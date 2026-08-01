@@ -20,4 +20,4 @@ Uses:
 - [[blocking|Blocking]] an attack
 - Using a [[shield|shield]]
 - Resisting a [[grapple|grapple]]
-- Intimidate someone (opposed against the NPC’s [[dark_canals/mechanics/core_mechanics/skills/endure_skill|ENDURE]]).
+- Intimidate someone (opposed against the NPC’s [[dark_canals/mechanics/core_mechanics/skills/skill_endure|ENDURE]]).

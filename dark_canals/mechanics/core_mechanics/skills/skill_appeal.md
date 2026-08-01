@@ -18,5 +18,5 @@ Associated [[dark_canals/mechanics/core_mechanics/coreMec_attributes|Attribute]]
 Uses:
 - Convince people by appealing to emotion.
 - Make people feel a certain way.
-- Usually opposed by [[insight_skill|INSIGHT]].
+- Usually opposed by [[dark_canals/mechanics/core_mechanics/skills/skill_insight|INSIGHT]].
 - Help others reduce Stress.
