@@ -44,8 +44,8 @@ Skills work in combination with [[dark_canals/mechanics/core_mechanics/coreMec_a
 | [[dark_canals/mechanics/core_mechanics/skills/skill_endure\|ENDURE]]           | [[strength_attr\|STRENGTH]] |
 | [[dark_canals/mechanics/core_mechanics/skills/skill_ballistics\|BALLISTICS]]   | [[agility_attr\|AGILITY]]   |
 | [[dark_canals/mechanics/core_mechanics/skills/skill_mobility\|MOBILITY]]       | [[agility_attr\|AGILITY]]   |
-| [[dark_canals/mechanics/core_mechanics/skills/techne_skill\|TECHNE]]           | [[agility_attr\|AGILITY]]   |
-| [[dark_canals/mechanics/core_mechanics/skills/surgery_skill\|SURGERY]]         | [[wits_attr\|WITS]]         |
+| [[dark_canals/mechanics/core_mechanics/skills/skill_techne\|TECHNE]]           | [[agility_attr\|AGILITY]]   |
+| [[dark_canals/mechanics/core_mechanics/skills/skill_surgery\|SURGERY]]         | [[wits_attr\|WITS]]         |
 | [[dark_canals/mechanics/core_mechanics/skills/skill_observation\|OBSERVATION]] | [[wits_attr\|WITS]]         |
 | [[dark_canals/mechanics/core_mechanics/skills/skill_reason\|REASON]]           | [[wits_attr\|WITS]]         |
 | [[dark_canals/mechanics/core_mechanics/skills/skill_appeal\|APPEAL]]           | [[empathy_attr\|EMPATHY]]   |

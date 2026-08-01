@@ -61,11 +61,11 @@ If a roll requires specialist knowledge, equipment or training is `Hard` or `Ver
 
 > As a general rule, those are skills people get paid for.
 
-Some [[dark_canals/mechanics/core_mechanics/coreMec_skills|Skills]] are very broad, and they might contain several subsets or fields of study. This happens specially with [[dark_canals/mechanics/core_mechanics/skills/techne_skill|TECHNE]] and [[dark_canals/mechanics/core_mechanics/skills/skill_reason|REASON]].
+Some [[dark_canals/mechanics/core_mechanics/coreMec_skills|Skills]] are very broad, and they might contain several subsets or fields of study. This happens specially with [[dark_canals/mechanics/core_mechanics/skills/skill_techne|TECHNE]] and [[dark_canals/mechanics/core_mechanics/skills/skill_reason|REASON]].
 
 > Not every Character with good dice pools in those [[dark_canals/mechanics/core_mechanics/coreMec_skills|Skills]] should be able to apply them with ease in every situation, and comparing Characters with the same dice pools in the skill is not an "apples to apples" comparison.
 
-The difficulty scale for [[dark_canals/mechanics/core_mechanics/skills/techne_skill|TECHNE]] and [[dark_canals/mechanics/core_mechanics/skills/skill_reason|REASON]] is absolute. The difficulty doesn't change from Character to Character, and it is set as "the difficulty for the average person".
+The difficulty scale for [[dark_canals/mechanics/core_mechanics/skills/skill_techne|TECHNE]] and [[dark_canals/mechanics/core_mechanics/skills/skill_reason|REASON]] is absolute. The difficulty doesn't change from Character to Character, and it is set as "the difficulty for the average person".
 
 > Two high TECHNE Characters might be good at very different activities. They can both attempt each other's specialty at a `Hard` difficulty, just like any other character, and like any other character, they won't have any [[dark_canals/mechanics/core_mechanics/coreMec_profficiencies|Proficiencies]].
 
