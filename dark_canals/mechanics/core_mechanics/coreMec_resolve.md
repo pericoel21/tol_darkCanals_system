@@ -11,14 +11,19 @@ description: Reserve of mental fortitude
 # `= this.file.aliases[0]`
 > `= this.description`.
 
-- Spent to ignore a [[stress_response|Stress Response]] (by [[#Keeping Your Cool]]).
-- Causes the [[burnout_condition|Burnout]] [[coreMec_conditions|Condition]].
-- Regained by carousing and similar activities.
+## Uses of Resolve
+- *Pushing:* [[wits_attr|WITS]] and [[empathy_attr|EMPATHY]] [[coreMec_rollResolution|Rolls]] can be [[coreMec_pushingRolls|Pushed]] by spending one Resolve, ignoring [[coreMec_attributeDamage|Attribute Damage]].
+- *Keep your Cool:* Spend an amount of Resolve to cancel the same amount of [[coreMec_stress|Stress Dice]] with an outcome of 1.
+	This can completely cancel a [[coreMec_stress#Stress Response|Stress Response]].
+- *Mind to Body:* Spend one Resolve to gain, and immediatly use, one [[coreMec_stamina|Stamina]]
+- *Training:*  
+- *Bonding:*
 
-Determined by
+## Burning Out
+Running out of Resolve causes a level of the [[burnout_condition|Burnout]] [[coreMec_conditions|Condition]].
+![[cond_burnout#Effect|Burnout]]
 
-### Keeping Your Cool
-Spend an amount of Resolve to cancel the same amount of [[coreMec_stress|Stress Dice]] with an outcome of 1.
+## Recovering Resolve
+Once per day, a PC might [[coreMec_recoverResolve|recover one Resolve]] by Carousing, or in special occasions, by visiting a place of great Natural Beauty.
 
-This can completely cancel a [[coreMec_stress#Stress Response|Stress Response]].
-
+## Resolve at PC creation

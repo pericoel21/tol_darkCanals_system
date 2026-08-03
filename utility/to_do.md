@@ -21,6 +21,7 @@ kanban-plugin: list
 - [ ] [[dark_canals/mechanics/core_mechanics/coreMec_attributeDamage]] is barebones AF
 - [ ] Add play examples for every core mech and tie them up into a single page
 - [ ] Incorporate [[coreMec_stress|Stress]] to [[coreMec_rollResolution|Roll]]ç
+- [ ] Incorporate [[coreMec_stress|Stress]], [[coreMec_resolve|Resolve]], [[coreMec_stamina|Stamina]] to [[coreMec_attributeDamage|Attribute Damage]]
 
 
 ## WIP

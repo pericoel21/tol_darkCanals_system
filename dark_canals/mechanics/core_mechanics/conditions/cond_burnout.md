@@ -2,7 +2,6 @@
 tags:
   - core
   - mechanic
-  - stat
   - condition
 aliases:
   - Burnout

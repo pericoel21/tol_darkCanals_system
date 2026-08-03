@@ -2,7 +2,6 @@
 tags:
   - core
   - mechanic
-  - stat
 aliases:
   - Attribute Damage
 connections:
