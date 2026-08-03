@@ -14,7 +14,7 @@ description: Reserve of physical fortitude
 Determined by
 
 Spent to:
-- Ignore [[dark_canals/mechanics/core_mechanics/coreMec_attributeDamage|Attribute Damage]].
+- Ignore [[coreMec_attributeDamage|Attribute Damage]].
 - Perform certain actions in [[combat|Combat]].
 
 Regained by sleeping and eating

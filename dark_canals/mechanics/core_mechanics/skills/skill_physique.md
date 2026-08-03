@@ -11,7 +11,7 @@ connections:
 description: Use this Skill for any feat of strength
 ---
 # `= this.file.aliases[0]`
-Associated [[dark_canals/mechanics/core_mechanics/coreMec_attributes|Attribute]]: `=this.connections[0]`
+Associated [[coreMec_attributes|Attribute]]: `=this.connections[0]`
 
 > `= this.description`.
 
@@ -20,4 +20,4 @@ Uses:
 - [[blocking|Blocking]] an attack
 - Using a [[shield|shield]]
 - Resisting a [[grapple|grapple]]
-- Intimidate someone (opposed against the NPC’s [[dark_canals/mechanics/core_mechanics/skills/skill_endure|ENDURE]]).
+- Intimidate someone (opposed against the NPC’s [[skill_endure|ENDURE]]).

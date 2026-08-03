@@ -12,7 +12,7 @@
   "smartIndentList": false,
   "openBehavior": "file:vault/landing_page.canvas",
   "attachmentFolderPath": "utility/files",
-  "newLinkFormat": "absolute",
+  "newLinkFormat": "shortest",
   "showUnsupportedFiles": true,
   "trashOption": "local",
   "showInlineTitle": false

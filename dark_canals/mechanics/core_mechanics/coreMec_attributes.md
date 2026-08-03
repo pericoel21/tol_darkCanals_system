@@ -12,7 +12,7 @@ description: The four main physical or mental capabilities of a character
 # `= this.file.aliases[0]`
 > `= this.description`.
 
-Attributes are used in [[dark_canals/mechanics/core_mechanics/coreMec_rollResolution|rolls]] to perform actions, in combination with a [[dark_canals/mechanics/core_mechanics/coreMec_skills|Skill]]. Attributes also determine how much [[dark_canals/mechanics/core_mechanics/coreMec_stamina|Stamina]] and [[dark_canals/mechanics/core_mechanics/coreMec_resolve|Resolve]] PCs have (their capacity to withstand [[injury|Injury]] and [[stress|Stress]]).
+Attributes are used in [[coreMec_rollResolution|rolls]] to perform actions, in combination with a [[coreMec_skills|Skill]]. Attributes also determine how much [[coreMec_stamina|Stamina]] and [[coreMec_resolve|Resolve]] PCs have (their capacity to withstand [[injury|Injury]] and [[stress|Stress]]).
 
 [[coreMec_conditions|Conditions]] or [[injury|Injuries]] can reduce the Attribute ratings, and they can be regained through [[heling|healing]] and similar actions.
 
@@ -25,7 +25,7 @@ Attributes are used in [[dark_canals/mechanics/core_mechanics/coreMec_rollResolu
 - [[empathy_attr|EMPATHY]]: Charisma, social intuition.
 
 ### Attribute Ratings
-From 1 to 5.
+Attribute Ratings range from 1 to 5.
 
 | Score | Meaning  |
 | ----- | -------- |

@@ -17,4 +17,4 @@ worse at stuff, and in a fight, we sometimes call this a death spiral, but in Da
 as you have some Stamina or Resolve left you have some options about when that downward
 spiral starts to affect you.
 
-ignorable by [[dark_canals/mechanics/core_mechanics/coreMec_pushingRolls|Pushing the Roll]]
+ignorable by [[coreMec_pushingRolls|Pushing the Roll]]
