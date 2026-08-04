@@ -7,7 +7,7 @@ aliases:
   - REASON (WITS)
   - REASON
 connections:
-  - "[[wits_attr|WITS]]"
+  - "[[attr_wits|WITS]]"
 description: Invoking any prior technical knowledge, or pure logic
 ---
 # `= this.file.aliases[0]`

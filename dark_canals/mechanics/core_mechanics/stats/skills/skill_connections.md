@@ -7,7 +7,7 @@ aliases:
   - CONNECTIONS (EMPATHY)
   - CONNECTIONS
 connections:
-  - "[[empathy_attr|EMPATHY]]"
+  - "[[attr_empathy|EMPATHY]]"
 description: Breadth of your social connections
 ---
 # `= this.file.aliases[0]`

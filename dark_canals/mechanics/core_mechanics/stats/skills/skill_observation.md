@@ -7,7 +7,7 @@ aliases:
   - OBSERVATION (WITS)
   - OBSERVATION
 connections:
-  - "[[wits_attr|WITS]]"
+  - "[[attr_wits|WITS]]"
 description: Spot hidden or difficult to see things
 ---
 # `= this.file.aliases[0]`

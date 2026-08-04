@@ -61,11 +61,11 @@ If a roll requires specialist knowledge, equipment or training is `Hard` or `Ver
 
 > As a general rule, those are skills people get paid for.
 
-Some [[coreMec_skills|Skills]] are very broad, and they might contain several subsets or fields of study. This happens specially with [[skills/skill_techne|TECHNE]] and [[skills/skill_reason|REASON]].
+Some [[coreMec_skills|Skills]] are very broad, and they might contain several subsets or fields of study. This happens specially with [[skill_techne|TECHNE]] and [[skill_reason|REASON]].
 
 > Not every Character with good dice pools in those [[coreMec_skills|Skills]] should be able to apply them with ease in every situation, and comparing Characters with the same dice pools in the skill is not an "apples to apples" comparison.
 
-The difficulty scale for [[skills/skill_techne|TECHNE]] and [[skills/skill_reason|REASON]] is absolute. The difficulty doesn't change from Character to Character, and it is set as "the difficulty for the average person".
+The difficulty scale for [[skill_techne|TECHNE]] and [[skill_reason|REASON]] is absolute. The difficulty doesn't change from Character to Character, and it is set as "the difficulty for the average person".
 
 > Two high TECHNE Characters might be good at very different activities. They can both attempt each other's specialty at a `Hard` difficulty, just like any other character, and like any other character, they won't have any [[coreMec_profficiencies|Proficiencies]].
 
@@ -74,4 +74,4 @@ The difficulty scale for [[skills/skill_techne|TECHNE]] and [[skills/skill_reaso
 Some [[coreMec_skills|Skills]] are niches. Most of the Characters with that skill know the same core concepts, and their dice pool is a simple, linear scale.
 The difficulty for those [[coreMec_skills|Skills]] is set in contrast to other activities of that field. The baseline is `Average`.
 
-> For example, [[skills/skill_ballistics|BALLISTICS]] is a pretty specialized field already, so there's no need to make the baseline [[coreMec_skills|Skill]] roll `Hard`. All Characters with good BALLISTICS can shoot better or worse.
+> For example, [[skill_ballistics|BALLISTICS]] is a pretty specialized field already, so there's no need to make the baseline [[coreMec_skills|Skill]] roll `Hard`. All Characters with good BALLISTICS can shoot better or worse.

@@ -27,8 +27,8 @@ description: Core process of roll resolution
 	- A [[coreMec_modifier|Modifier]] grants an extra die.
 
 4. Consider [[coreMec_pushingRolls|Pushing the Roll]] to ignore [[coreMec_attributeDamage|Attribute Damage]].
-	- Spend one [[coreMec_resolve|Resolve]] (for [[wits_attr|WITS]] or [[empathy_attr|EMPATHY]]).
-	- Spend one [[coreMec_stamina|Stamina]] (for [[strength_attr|STRENGTH]] or [[agility_attr|AGILITY]]).
+	- Spend one [[stat_resolve|Resolve]] (for [[attr_wits|WITS]] or [[attr_empathy|EMPATHY]]).
+	- Spend one [[stat_stamina|Stamina]] (for [[attr_strength|STRENGTH]] or [[attr_agility|AGILITY]]).
 	
 5. Roll a number of D6 equal to [[coreMec_attributes|Attribute]] rating + [[coreMec_skills|Skill]] rating + [[coreMec_modifier|Modifier]] (if any).
 

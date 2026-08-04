@@ -14,8 +14,8 @@ description: Spending Stamina or Resolve allows a character to ignore Attribute 
 > `= this.description`.
 
 In order to push a roll, a PC must spend:
-- One [[coreMec_resolve|Resolve]] for [[wits_attr|WITS]] or [[empathy_attr|EMPATHY]] [[coreMec_attributeDamage|Attribute Damage]].
-- One [[coreMec_stamina|Stamina]] for [[strength_attr|STRENGTH]] or [[agility_attr|AGILITY]] [[coreMec_attributeDamage|Attribute Damage]].
+- One [[stat_resolve|Resolve]] for [[attr_wits|WITS]] or [[attr_empathy|EMPATHY]] [[coreMec_attributeDamage|Attribute Damage]].
+- One [[stat_stamina|Stamina]] for [[attr_strength|STRENGTH]] or [[attr_agility|AGILITY]] [[coreMec_attributeDamage|Attribute Damage]].
 
 A PC can push the roll before or after rolling and determining the [[coreMec_rollResolution|Outcome of the Roll]]:
 - Before rolling:

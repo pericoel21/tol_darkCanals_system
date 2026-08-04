@@ -35,11 +35,12 @@ When performing a [[coreMec_rollResolution|Roll]], for each 1 roll on a Stress D
 
 If a [[coreMec_rollResolution|Roll]] fails because of this, the fail was caused because the Character Panicked.
 
-It is possible to spend [[coreMec_resolve|Resolve]] to cancel rolled 1s in a one-per-one basics ([[coreMec_resolve#Keeping Your Cool|Keeping Your Cool]]). This can go as far as canceling a Stress Response.
+It is possible to spend [[stat_resolve|Resolve]] to cancel rolled 1s in a one-per-one basics ([[stat_resolve#Keeping Your Cool|Keeping Your Cool]]). This can go as far as canceling a Stress Response.
 
 > It’s still up to the playerto role-play how their character handles Stress whether a Stress Response happens or not.
 
 ## Recovering Stress
 Stress might be [[coreMec_recoveringStress|Recovered]] with the help of other Character (by using their [[skill_appeal|APPEAL]]), or by relaxing in a safe place.
 
- 
+## Marking Stress in the [[character_sheet|Character Sheet]]
+- Each time Stress is added, mark it with the corresponding number, sequentially.

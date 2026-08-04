@@ -20,16 +20,21 @@ kanban-plugin: list
 
 - [ ] [[dark_canals/mechanics/core_mechanics/coreMec_attributeDamage]] is barebones AF
 - [ ] Add play examples for every core mech and tie them up into a single page
-- [ ] Incorporate [[coreMec_stress|Stress]] to [[coreMec_rollResolution|Roll]]ç
-- [ ] Incorporate [[coreMec_stress|Stress]], [[coreMec_resolve|Resolve]], [[coreMec_stamina|Stamina]] to [[coreMec_attributeDamage|Attribute Damage]]
+- [ ] Incorporate [[stat_stress|Stress]] to [[coreMec_rollResolution|Roll]]
+- [ ] Incorporate [[stat_stress|Stress]], [[stat_resolve|Resolve]], [[stat_stamina|Stamina]] to [[coreMec_attributeDamage|Attribute Damage]]
+- [ ] I skipped character creation
+- [ ] Nomenclature sheet
+- [ ] Revise: do skills / attrinutes have levels or scores?
+- [ ] [[coreMec_lifequest]]
 
 
 ## WIP
 
-- [ ] [[coreMec_stamina|Stamina]]
-- [ ] [[coreMec_resolve|Resolve]]
+- [ ] [[stat_stamina|Stamina]]
+- [ ] [[stat_resolve|Resolve]]
 - [ ] [[coreMec_profficiencies|Proficiency]]
 - [ ] [[coreMec_attributeDamage|Attribute Damage]]
+- [ ] [[stat_carryingCapacity|Carrying Capacity]]
 
 
 ## Review

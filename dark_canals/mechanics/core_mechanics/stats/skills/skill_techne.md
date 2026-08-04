@@ -7,7 +7,7 @@ aliases:
   - TECHNE (AGILITY)
   - TECHNE
 connections:
-  - "[[agility_attr|AGILITY]]"
+  - "[[attr_agility|AGILITY]]"
 description: Catch all Skill for technical ability & fine motor control
 ---
 # `= this.file.aliases[0]`

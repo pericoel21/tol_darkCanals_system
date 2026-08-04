@@ -7,7 +7,7 @@ aliases:
   - SURGERY (WITS)
   - SURGERY
 connections:
-  - "[[wits_attr|WITS]]"
+  - "[[attr_wits|WITS]]"
 description: Providing medical help
 ---
 # `= this.file.aliases[0]`

@@ -7,7 +7,7 @@ aliases:
   - ENDURE (STRENGTH)
   - ENDURE
 connections:
-  - "[[strength_attr|STRENGTH]]"
+  - "[[attr_strength|STRENGTH]]"
 description: Physical endurance or vigour
 ---
 # `= this.file.aliases[0]`

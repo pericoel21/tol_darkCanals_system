@@ -7,7 +7,7 @@ aliases:
   - FIGHT (STRENGTH)
   - FIGHT
 connections:
-  - "[[strength_attr|STRENGTH]]"
+  - "[[attr_strength|STRENGTH]]"
 description: Attacking someone (or something) using only your body or a mêlée weapon
 ---
 # `= this.file.aliases[0]`

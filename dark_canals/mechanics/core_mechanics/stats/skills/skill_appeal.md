@@ -7,7 +7,7 @@ aliases:
   - APPEAL (EMPATHY)
   - APPEAL
 connections:
-  - "[[empathy_attr|EMPATHY]]"
+  - "[[attr_empathy|EMPATHY]]"
 description: Connect with people & appeal to emotion
 ---
 # `= this.file.aliases[0]`

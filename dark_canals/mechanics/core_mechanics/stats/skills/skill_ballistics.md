@@ -7,7 +7,7 @@ aliases:
   - BALLISTICS (AGILITY)
   - BALLISTICS
 connections:
-  - "[[agility_attr|AGILITY]]"
+  - "[[attr_agility|AGILITY]]"
 description: Fire ranged weapons and throw thrown weapons.
 ---
 # `= this.file.aliases[0]`

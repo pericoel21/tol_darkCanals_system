@@ -39,16 +39,19 @@ Skills work in combination with [[coreMec_attributes|Attributes]]:
 
 | Name                               | Attribute                   |
 | ---------------------------------- | --------------------------- |
-| [[skills/skill_physique\|PHYSIQUE]]       | [[strength_attr\|STRENGTH]] |
-| [[skills/skill_fight\|FIGHT]]             | [[strength_attr\|STRENGTH]] |
-| [[skills/skill_endure\|ENDURE]]           | [[strength_attr\|STRENGTH]] |
-| [[skills/skill_ballistics\|BALLISTICS]]   | [[agility_attr\|AGILITY]]   |
-| [[skills/skill_mobility\|MOBILITY]]       | [[agility_attr\|AGILITY]]   |
-| [[skills/skill_techne\|TECHNE]]           | [[agility_attr\|AGILITY]]   |
-| [[skills/skill_surgery\|SURGERY]]         | [[wits_attr\|WITS]]         |
-| [[skills/skill_observation\|OBSERVATION]] | [[wits_attr\|WITS]]         |
-| [[skills/skill_reason\|REASON]]           | [[wits_attr\|WITS]]         |
-| [[skills/skill_appeal\|APPEAL]]           | [[empathy_attr\|EMPATHY]]   |
-| [[skills/skill_insight\|INSIGHT]]         | [[empathy_attr\|EMPATHY]]   |
-| [[skills/skill_connections\|CONNECTIONS]] | [[empathy_attr\|EMPATHY]]   |
+| [[skill_physique\|PHYSIQUE]]       | [[attr_strength\|STRENGTH]] |
+| [[skill_fight\|FIGHT]]             | [[attr_strength\|STRENGTH]] |
+| [[skill_endure\|ENDURE]]           | [[attr_strength\|STRENGTH]] |
+| [[skill_ballistics\|BALLISTICS]]   | [[attr_agility\|AGILITY]]   |
+| [[skill_mobility\|MOBILITY]]       | [[attr_agility\|AGILITY]]   |
+| [[skill_techne\|TECHNE]]           | [[attr_agility\|AGILITY]]   |
+| [[skill_surgery\|SURGERY]]         | [[attr_wits\|WITS]]         |
+| [[skill_observation\|OBSERVATION]] | [[attr_wits\|WITS]]         |
+| [[skill_reason\|REASON]]           | [[attr_wits\|WITS]]         |
+| [[skill_appeal\|APPEAL]]           | [[attr_empathy\|EMPATHY]]   |
+| [[skill_insight\|INSIGHT]]         | [[attr_empathy\|EMPATHY]]   |
+| [[skill_connections\|CONNECTIONS]] | [[attr_empathy\|EMPATHY]]   |
 
+## Tracking Skills in the [[character_sheet|Character Sheet]]
+- Mark skill ratings by writing their numbers sequentially, in the boxes.
+- Blank out boxes from the right when [[coreMec_skillTraining|Training]] a different skill.

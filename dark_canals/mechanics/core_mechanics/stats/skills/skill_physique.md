@@ -7,7 +7,7 @@ aliases:
   - PHYSIQUE (STRENGTH)
   - PHYSIQUE
 connections:
-  - "[[strength_attr|STRENGTH]]"
+  - "[[attr_strength|STRENGTH]]"
 description: Use this Skill for any feat of strength
 ---
 # `= this.file.aliases[0]`

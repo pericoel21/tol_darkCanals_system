@@ -7,7 +7,7 @@ aliases:
   - INSIGHT (EMPATHY)
   - INSIGHT
 connections:
-  - "[[empathy_attr|EMPATHY]]"
+  - "[[attr_empathy|EMPATHY]]"
 description: Read other people’s emotions
 ---
 # `= this.file.aliases[0]`

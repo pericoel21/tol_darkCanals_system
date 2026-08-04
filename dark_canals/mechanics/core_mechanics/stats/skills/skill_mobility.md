@@ -7,7 +7,7 @@ aliases:
   - MOBILITY (AGILITY)
   - MOBILITY
 connections:
-  - "[[agility_attr|AGILITY]]"
+  - "[[attr_agility|AGILITY]]"
 description: For actions that requires speed or gross motor control
 ---
 # `= this.file.aliases[0]`

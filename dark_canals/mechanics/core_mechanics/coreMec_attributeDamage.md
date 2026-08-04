@@ -17,3 +17,5 @@ as you have some Stamina or Resolve left you have some options about when that d
 spiral starts to affect you.
 
 ignorable by [[coreMec_pushingRolls|Pushing the Roll]]
+
+[[coreMec_skillTraining|Skill Training]] acnnot be perfromed with a skill whose attribute is damaged
