@@ -3,6 +3,7 @@ tags:
   - core
   - mechanic
   - skill
+  - stat
 aliases:
   - MOBILITY (AGILITY)
   - MOBILITY

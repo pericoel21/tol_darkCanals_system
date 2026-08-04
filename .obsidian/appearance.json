@@ -2,5 +2,5 @@
   "cssTheme": "Blue Topaz",
   "accentColor": "#fe4a39",
   "theme": "obsidian",
-  "showRibbon": true
+  "showRibbon": false
 }

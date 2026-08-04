@@ -13,7 +13,7 @@ description: Knowledge and abilities a character holds
 > `= this.description`.
 
 - Skills determine how effectively a Character can perform certain actions.
-- They can be increased by [[training|Training]].
+- They can be increased by [[coreMec_skillTraining|Training]].
 - Skills are categorized in three groups corresponding to their associated [[coreMec_attributes|Attribute]].
 
 Skills work in combination with [[coreMec_attributes|Attributes]]:

@@ -20,7 +20,7 @@ description: Reserve of mental fortitude
 - *Bonding:*
 
 ## Burning Out
-Running out of Resolve causes a level of the [[burnout_condition|Burnout]] [[coreMec_conditions|Condition]].
+Running out of Resolve causes a level of the [[cond_burnout|Burnout]] [[coreMec_conditions|Condition]].
 ![[cond_burnout#Effect|Burnout]]
 
 ## Recovering Resolve

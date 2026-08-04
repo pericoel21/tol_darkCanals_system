@@ -3,6 +3,7 @@ tags:
   - core
   - skill
   - mechanic
+  - stat
 aliases:
   - REASON (WITS)
   - REASON

@@ -3,6 +3,7 @@ tags:
   - core
   - mechanic
   - skill
+  - stat
 aliases:
   - FIGHT (STRENGTH)
   - FIGHT

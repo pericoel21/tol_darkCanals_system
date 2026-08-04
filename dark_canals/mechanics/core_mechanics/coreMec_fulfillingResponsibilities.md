@@ -28,7 +28,7 @@ If another PC joins the activity of Fulflling a Responability with a shared Core
 ### Recovering
 [[xp|XP]] obtained through Fulfilling a Responsibility is used to heal [[stat_resolve|Resolve]] lost to [[cond_burnout|Burnout]].
 
-For each level of [[Burnout]]:
+For each level of the [[cond_burnout|Burnout Condition]]:
 - 5 XP are required.
 - Additionally, the PC must spend a [[coreMec_watches|Watch]] of [[downtime|Downtime]] with their [[coreMec_coreContact|Core Contact]], experiencing closeness and comfort with them.
 

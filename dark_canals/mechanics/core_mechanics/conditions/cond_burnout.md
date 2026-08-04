@@ -16,7 +16,7 @@ description: Damage of a character's Empathy due to lack of Resolve
 Burnout reduces a Character's [[attr_empathy|EMPATHY]] by one per level.
 
 ## Gaining Burnout
-Once per day, when a PC hits zero [[stat_resolve|Resolve]], they gain a level of the Burnout [[conditions|Condition]].
+Once per day, when a PC hits zero [[stat_resolve|Resolve]], they gain a level of the Burnout [[coreMec_conditions|Condition]].
 
 ## Recovering from Burnout
 To recover a level of Burnout, a Character must expend one point of [[xp|XP]].

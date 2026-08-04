@@ -3,6 +3,7 @@ tags:
   - core
   - mechanic
   - skill
+  - stat
 aliases:
   - ENDURE (STRENGTH)
   - ENDURE
@@ -17,6 +18,6 @@ Associated [[coreMec_attributes|Attribute]]: `=this.connections[0]`
 
 Uses:
 - Survive under water.
-- Resist [[exposure|Exposure]].
+- Resist [[cond_exposure|Exposure]].
 - Stay alive when you have suffered a [[lethal_injury|Lethal Injury]].
 - Stay conscious or regain consciousness.

@@ -3,6 +3,7 @@ tags:
   - core
   - mechanic
   - skill
+  - stat
 aliases:
   - APPEAL (EMPATHY)
   - APPEAL

@@ -17,7 +17,7 @@ When a PC trains a [[coreMec_skills|Skills]], they must:
 - Reduce their [[stat_resolve|Resolve]] by one.
 
 ### Tutors
-Once a [[coreMec_skills|Skill]] reaches level 3, a tutor is needed to keep progressing.  Each session of training costs [[coin|COIN]].
+Once a [[coreMec_skills|Skill]] reaches level 3, a tutor is needed to keep progressing.  Each session of training costs [[coreMec_coin|COIN]].
 
 ## Using XP from training
 Training grants the PC one [[xp|XP]] in the selected [[coreMec_skills|Skill]]:
