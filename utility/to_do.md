@@ -18,7 +18,7 @@ kanban-plugin: list
 
 ## To Do
 
-- [ ] [[dark_canals/mechanics/core_mechanics/coreMec_attributeDamage]] is barebones AF
+- [ ] [[coreMec_attributeDamage]] is barebones AF
 - [ ] Add play examples for every core mech and tie them up into a single page
 - [ ] Incorporate [[stat_stress|Stress]] to [[coreMec_rollResolution|Roll]]
 - [ ] Incorporate [[stat_stress|Stress]], [[stat_resolve|Resolve]], [[stat_stamina|Stamina]] to [[coreMec_attributeDamage|Attribute Damage]]
@@ -45,7 +45,7 @@ kanban-plugin: list
 ## Done
 
 **Complete**
-- [x] Fill the list of skills in [[dark_canals/mechanics/core_mechanics/coreMec_skills|Skills]]
+- [x] Fill the list of skills in [[coreMec_skills|Skills]]
 
 
 
