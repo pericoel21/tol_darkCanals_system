@@ -11,6 +11,8 @@ description: Settlements shield characters from the threats of the wilderness an
 # `= this.file.aliases[0]`
 > `= this.description`.
 
+> See [[coreMec_shopping|Shopping]]
+
 ## Safety & Shelter
 The GM does not roll [[random wilderness encounters]] while on a Settlement.
 > Doesn’t mean bad stuff isn't present in a settlement, just means it isn't randomly present.
@@ -26,7 +28,7 @@ The weekly cost covers:
 The weekly cost does not cover:
 - Carousing.
 - Buying new gear.
-- Food rations.
+- [[item_ration|Food rations]].
 - Repairs
 - Medical treatment.
 - Bribes or fines.

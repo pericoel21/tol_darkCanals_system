@@ -19,7 +19,7 @@ For every hour a Character spends relaxing in a safe place, they decrease their 
 Camping in untamed wilderness or in a dungeon, where monsters lurk and can set upon you at any moment, does not count as a "safe place".
 
 It can be made a Safe Place by either:
-- [[making_camp|Making Camp]] and establishing watches.
+- [[coreMec_makingCamp|Making Camp]] and establishing watches.
 - Using recreational substances like booze or pipeweed.
 
 #### Sleeping

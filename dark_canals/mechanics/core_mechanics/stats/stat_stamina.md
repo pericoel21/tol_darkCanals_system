@@ -16,7 +16,8 @@ description: Reserve of physical fortitude
 - *Combat-specific:* Certain actions in [[combat|Combat]] require spending Stamina.
 
 ## Recovering Stamina
-Stamina is recovered by sleeping and eating.
+- [[coreMec_sleeping|Sleeping]] one Stamina per hour if the PC sleeps at least three hours.
+- [[coreMec_eating|Eating]] recovers one Stamina per ration consumed.
 
 ## Stamina at PC creation
 The starting & maximum Stamina for a PC equals the average of their [[attr_strength|STRENGTH]] and [[attr_agility|AGILITY]] scores, rounding up, plus one.

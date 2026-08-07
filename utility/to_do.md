@@ -35,6 +35,7 @@ kanban-plugin: list
 - [ ] [[coreMec_profficiencies|Proficiency]]
 - [ ] [[coreMec_attributeDamage|Attribute Damage]]
 - [ ] [[stat_carryingCapacity|Carrying Capacity]]
+- [ ] [[coreMech_dying|Dying]]
 
 
 ## Review
