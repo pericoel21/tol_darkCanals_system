@@ -18,7 +18,7 @@ Associated [[coreMec_attributes|Attribute]]: `=this.connections[0]`
 
 Uses:
 - Providing first aid.
-- Stabilizing a [[lethal_injury|Lethal Injury]].
+- Stabilizing a [[coreMec_injury#Lethal Injuries|Lethal Injury]].
 - Performing actual surgery.
 
 > [!tip] How specialized is SURGERY as a skill?

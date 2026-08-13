@@ -17,6 +17,6 @@ It takes one person one [[coreMec_watches|Watch]] to Make Camp.
 - In the wilderness, a fire is made from scavenged materials.
 - In dungeons or bare landscapes, [[item_torch|Torches]] are used instead.
 
-Other characters can spend this watch hunting, foraging, searching, repairing, crafting, cooking, eating, [[coreMec_skillTraining|Training]], resting (recovering [[stat_stress|Stress]]) or whatever else they feel like.
+Other characters can spend this watch [[coreMec_foragingHunting|Hunting, Foraging]], [[searching]], [[repairing|Repairing]], [[coreMec_crafting|Crafting]], [[cooking|Cooking]], [[coreMec_eating|Eating]], [[coreMec_skillTraining|Training]], resting (recovering [[stat_stress|Stress]]) or whatever else they feel like.
 
 > See `= this.connections`

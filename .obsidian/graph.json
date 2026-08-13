@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "path:dark_canals/mechanics  ",
+  "search": "path:dark_canals/system",
   "showTags": true,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -8,10 +8,10 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "path:dark_canals/mechanics/core_mechanics/skills  ",
+      "query": "path:dark_canals/system/mechanics_corells  ",
       "color": {
         "a": 1,
-        "rgb": 15500240
+        "rgb": 10354509
       }
     }
   ],
@@ -25,6 +25,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 1.0534979423868303,
+  "scale": 1.05349794238683,
   "close": true
 }

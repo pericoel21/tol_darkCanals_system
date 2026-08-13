@@ -17,7 +17,7 @@ Only one [[stat_resolve|Resolve]] can be recovered per day.
 ## Carousing
 A PC might recover one [[stat_resolve|Resolve]] by spending one [[coreMec_watches|Watch]] carousing in a settlement:
 - Drinking, whoring, gambling...
-- Hosting a [[funeral|Funeral]] for a fallen PC
+- Hosting a [[coreMec_funeral|Funeral]] for a fallen PC
 - At a tavern or similar.
 
 ## Place of Natural Beauty

@@ -30,3 +30,18 @@ Succeed or fail, the scrap is used up.
 - The starting [[coreMec_difficulty|Difficulty]] is `VERY HARD`.
 - The [[coreMec_difficulty|Difficulty]] is made `EASIER` for each additional portion of Scrap used, to a maximum of five Scrap.
 - If an item requires more than one kind of Scrap, one of each type is needed to lower the [[coreMec_difficulty|Difficulty]] by one step.
+
+### Crafting Ingredients
+
+| Item                              | Scrap                                                            | Tools                                                                      |
+| --------------------------------- | ---------------------------------------------------------------- | -------------------------------------------------------------------------- |
+| [[item_shortbow\|Short Bow]]      | Wood Scrap                                                       | [[item_whittlingKnife\|Whittling Knife]], [[coreMec_makingCamp\|Campfire]] |
+| [[item_arrow\|Wood Head Arrows]]  | Wood Scrap (Makes 20 arrows)                                     | [[item_whittlingKnife\|Whittling Knife]]                                   |
+| Leather Scrap                     | Animal Scrap                                                     | [[item_leatherKnife\|Leather Knife]], [[coreMec_makingCamp\|Campfire]]     |
+| [[item_oil\|Oil]]                 | Animal Scrap                                                     | [[item_whittlingKnife\|Whittling Knife]]                                   |
+| [[item_torch\|Torches]]           | Wood Scrap + [[item_oil\|Oil]] (Makes 5 [[item_torch\|Torches]]) | [[item_whittlingKnife\|Whittling Knife]]                                   |
+| [[item_rope\|Rope]]               | Plant Scrap (makes half a chain)                                 | [[item_leatherKnife\|Leather Knife]]                                       |
+| [[item_waterskin\|Water Skin]]    | Animal Scrap                                                     | [[item_sewingKit\|Sewing Kit]]                                             |
+| [[item_bandages\|Bandages]]       | Plant Scrap or Cloth Scrap                                       | [[item_sewingKit\|Sewing Kit]]                                             |
+| [[item_clothing\|Rough Clothing]] | Cloth Scrap (Makes one item)                                     | [[item_sewingKit\|Sewing Kit]]                                             |
+| [[item_pole\|10ft Pole]]          | Wood Scrap                                                       | [[item_whittlingKnife\|Whittling Knife]]                                   |

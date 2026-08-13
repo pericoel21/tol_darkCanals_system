@@ -14,9 +14,9 @@ description: The four main physical or mental capabilities of a character
 
 Attributes are used to [[coreMec_rollResolution|roll]] to perform actions, by combining the Attribute's Score and a [[coreMec_skills|Skill's]] Score to create a dice pool.
 
-Attributes also determine how much [[stat_stamina|Stamina]] and [[stat_resolve|Resolve]] PCs have (their capacity to withstand [[injury|Injury]] and [[stress|Stress]]).
+Attributes also determine how much [[stat_stamina|Stamina]] and [[stat_resolve|Resolve]] PCs have (their capacity to withstand [[coreMec_injury|Injury]] and [[stat_stress|Stress]]).
 
-[[coreMec_conditions|Conditions]] or [[injury|Injuries]] can reduce the Attribute ratings, and they can be regained through [[heling|healing]] and similar actions.
+[[coreMec_conditions|Conditions]] or [[coreMec_injury|Injuries]] can reduce the Attribute ratings, and they can be regained through [[healing|healing]] and similar actions.
 
 > You shouldn’t need to make any spoken reference to Attribute names during play.
 

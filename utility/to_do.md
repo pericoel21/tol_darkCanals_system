@@ -26,6 +26,9 @@ kanban-plugin: list
 - [ ] Nomenclature sheet
 - [ ] Revise: do skills / attrinutes have levels or scores?
 - [ ] [[coreMec_lifequest]]
+- [ ] Make sure [[coreMec_rollResolution|Roll]] also includes all attribute damage exceptions
+- [ ] create an Engaged Range page
+- [ ] [[coreMec_combat_reach|Reach]]: Table comparing weapon tags
 
 
 ## WIP
