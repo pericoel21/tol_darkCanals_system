@@ -8,11 +8,11 @@ aliases:
   - TECHNE (AGILITY)
   - TECHNE
 connections:
-  - "[[attr_agility|AGILITY]]"
+  - "[[attribute_agility|AGILITY]]"
 description: Catch all Skill for technical ability & fine motor control
 ---
 # `= this.file.aliases[0]`
-Associated [[coreMec_attributes|Attribute]]: `=this.connections[0]`
+Associated [[mechanic_attributes|Attribute]]: `=this.connections[0]`
 
 > `= this.description`.
 
@@ -25,4 +25,4 @@ Uses:
 - Disarming or setting a trap
 - Fishing.
 
-![[coreMec_difficulty#Broad Fields & Specialist Skills]]
+![[mechanic_difficulty#Broad Fields & Specialist Skills]]

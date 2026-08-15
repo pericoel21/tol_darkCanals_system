@@ -12,19 +12,19 @@ connections:
 description: Reaction to attempt to deflect the incoming damage with a weapon
 ---
 # `= this.file.aliases[0]`
-Associated [[coreMec_skills|Skill]]: `= this.connections[0]`
+Associated [[mechanic_skills|Skill]]: `= this.connections[0]`
 > `= this.description`.
 
-Used by [[coreMec_rollResolution|rolling]] [[skill_fight|FIGHT]], usually [[coreMec_opposedRolls|Opposed]] by the enemy's [[skill_fight|FIGHT]]:
+Used by [[mechanic_rollResolution|rolling]] [[skill_fight|FIGHT]], usually [[mechanic_opposedRolls|Opposed]] by the enemy's [[skill_fight|FIGHT]]:
 
-| [[coreMec_degreesOfSuccess\|Deg. Success]] | Outcome                                                          |
+| [[mechanic_degreesOfSuccess\|Deg. Success]] | Outcome                                                          |
 | ------------------------------------------ | ---------------------------------------------------------------- |
 | 1+                                         | Avoid hit                                                        |
-| 0                                          | [[coreMec_combat_melee#Result of the Attack Roll\|Glancing hit]] |
-| -1                                         | [[coreMec_combat_melee#Result of the Attack Roll\|Full hit]]     |
-| -2                                         | [[coreMec_combat_melee#Result of the Attack Roll\|Heavy hit]]    |
+| 0                                          | [[combat_melee#Result of the Attack Roll\|Glancing hit]] |
+| -1                                         | [[combat_melee#Result of the Attack Roll\|Full hit]]     |
+| -2                                         | [[combat_melee#Result of the Attack Roll\|Heavy hit]]    |
 
 ## Parrying is Tricky
-To get the [[coreMec_modifier|Modifier]] to Parry, the PC must both:
+To get the [[mechanic_modifier|Modifier]] to Parry, the PC must both:
 - Use a [[weapon|Weapon]] with the [[trait_parrying|Parrying Trait]].
-- Have the [[profficiency_parrying|Parrying]] [[coreMec_profficiencies|Proficiency]].
+- Have the [[profficiency_parrying|Parrying]] [[mechanic_profficiencies|Proficiency]].

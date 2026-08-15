@@ -8,11 +8,11 @@ aliases:
   - CONNECTIONS (EMPATHY)
   - CONNECTIONS
 connections:
-  - "[[attr_empathy|EMPATHY]]"
+  - "[[attribute_empathy|EMPATHY]]"
 description: Breadth of your social connections
 ---
 # `= this.file.aliases[0]`
-Associated [[coreMec_attributes|Attribute]]: `=this.connections[0]`
+Associated [[mechanic_attributes|Attribute]]: `=this.connections[0]`
 
 > `= this.description`.
 

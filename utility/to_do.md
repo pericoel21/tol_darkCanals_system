@@ -11,34 +11,38 @@ kanban-plugin: list
 - [ ] Reformat [[dark_canals/philosophy/phy_threePillars|The Three Pillars]]
 - [ ] Reformat [[dark_canals/philosophy/phi_howToRoleplay|phi_howToRoleplay]]
 - [ ] Reformat [[dark_canals/philosophy/phi_whatIsAmpersandFantasy|phi_whatIsAmpersandFantasy]]
-- [ ] [[coreMec_opposedRolls#Actual Opposed Rolls|Actual Opposed Rolls]] are an invent from me. Confirm with Matt.
-- [ ] [[coreMec_helping|Help]] is basically pieced together. Confirm with Matt.
+- [ ] [[mechanic_opposedRolls#Actual Opposed Rolls|Actual Opposed Rolls]] are an invent from me. Confirm with Matt.
+- [ ] [[mechanic_helping|Help]] is basically pieced together. Confirm with Matt.
 - [ ] Make the Player / Character / PC / NPC distinction clearer
+- [ ] [[combat_hitLocations|Hit Locations]] Create mermaid chart
 
 
 ## To Do
 
-- [ ] [[coreMec_attributeDamage]] is barebones AF
+- [ ] [[mechanic_attributeDamage]] is barebones AF
 - [ ] Add play examples for every core mech and tie them up into a single page
-- [ ] Incorporate [[stat_stress|Stress]] to [[coreMec_rollResolution|Roll]]
-- [ ] Incorporate [[stat_stress|Stress]], [[stat_resolve|Resolve]], [[stat_stamina|Stamina]] to [[coreMec_attributeDamage|Attribute Damage]]
+- [ ] Incorporate [[stat_stress|Stress]] to [[mechanic_rollResolution|Roll]]
+- [ ] Incorporate [[stat_stress|Stress]], [[stat_resolve|Resolve]], [[stat_stamina|Stamina]] to [[mechanic_attributeDamage|Attribute Damage]]
 - [ ] I skipped character creation
 - [ ] Nomenclature sheet
 - [ ] Revise: do skills / attrinutes have levels or scores?
-- [ ] [[coreMec_lifequest]]
-- [ ] Make sure [[coreMec_rollResolution|Roll]] also includes all attribute damage exceptions
+- [ ] [[mechanic_lifequest]]
+- [ ] Make sure [[mechanic_rollResolution|Roll]] also includes all attribute damage exceptions
 - [ ] create an Engaged Range page
-- [ ] [[coreMec_combat_reach|Reach]]: Table comparing weapon tags
+- [ ] [[combat_reach|Reach]]: Table comparing weapon tags
+- [ ] Separate types of hit (glancing, etc) from [[combat_melee|Melee]] and [[combat_ranged|Ranged Combat]].
+- [ ] [[mechanic_hazards]] look for translation of Polvorín
 
 
 ## WIP
 
+- [ ] [[mec_combat_firefight]]
 - [ ] [[stat_stamina|Stamina]]
 - [ ] [[stat_resolve|Resolve]]
-- [ ] [[coreMec_profficiencies|Proficiency]]
-- [ ] [[coreMec_attributeDamage|Attribute Damage]]
+- [ ] [[mechanic_profficiencies|Proficiency]]
+- [ ] [[mechanic_attributeDamage|Attribute Damage]]
 - [ ] [[stat_carryingCapacity|Carrying Capacity]]
-- [ ] [[coreMech_dying|Dying]]
+- [ ] [[mechanic_dying|Dying]]
 
 
 ## Review
@@ -48,7 +52,7 @@ kanban-plugin: list
 ## Done
 
 **Complete**
-- [x] Fill the list of skills in [[coreMec_skills|Skills]]
+- [x] Fill the list of skills in [[mechanic_skills|Skills]]
 
 
 

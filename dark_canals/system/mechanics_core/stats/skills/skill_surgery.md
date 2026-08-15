@@ -8,17 +8,17 @@ aliases:
   - SURGERY (WITS)
   - SURGERY
 connections:
-  - "[[attr_wits|WITS]]"
+  - "[[attribute_wits|WITS]]"
 description: Providing medical help
 ---
 # `= this.file.aliases[0]`
-Associated [[coreMec_attributes|Attribute]]: `=this.connections[0]`
+Associated [[mechanic_attributes|Attribute]]: `=this.connections[0]`
 
 > `= this.description`.
 
 Uses:
 - Providing first aid.
-- Stabilizing a [[coreMec_injury#Lethal Injuries|Lethal Injury]].
+- Stabilizing a [[mechanic_injury#Lethal Injuries|Lethal Injury]].
 - Performing actual surgery.
 
 > [!tip] How specialized is SURGERY as a skill?

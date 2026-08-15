@@ -8,11 +8,11 @@ aliases:
   - OBSERVATION (WITS)
   - OBSERVATION
 connections:
-  - "[[attr_wits|WITS]]"
+  - "[[attribute_wits|WITS]]"
 description: Spot hidden or difficult to see things
 ---
 # `= this.file.aliases[0]`
-Associated [[coreMec_attributes|Attribute]]: `=this.connections[0]`
+Associated [[mechanic_attributes|Attribute]]: `=this.connections[0]`
 
 > `= this.description`.
 

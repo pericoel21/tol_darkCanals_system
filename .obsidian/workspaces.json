@@ -15,12 +15,56 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "dark_canals/system/mechanics_core/combat/coreMec_combat_grappling.md",
-                    "mode": "preview",
+                    "file": "coreMec_rangedCombat.md",
+                    "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "coreMec_combat_grappling"
+                  "title": "coreMec_rangedCombat"
+                }
+              },
+              {
+                "id": "82c5e454e4f322ad",
+                "type": "leaf",
+                "state": {
+                  "type": "kanban",
+                  "state": {
+                    "file": "utility/to_do.md",
+                    "kanbanViewState": {
+                      "kanban-plugin": "list",
+                      "list-collapse": [
+                        false,
+                        false,
+                        false,
+                        false,
+                        false
+                      ]
+                    }
+                  },
+                  "icon": "lucide-trello",
+                  "title": "to_do"
+                }
+              },
+              {
+                "id": "c686b8ba21a5e403",
+                "type": "leaf",
+                "state": {
+                  "type": "kanban",
+                  "state": {
+                    "file": "utility/issue_tracker.md",
+                    "kanbanViewState": {
+                      "kanban-plugin": "list",
+                      "list-collapse": [
+                        false,
+                        false,
+                        false,
+                        false,
+                        false
+                      ]
+                    }
+                  },
+                  "icon": "lucide-trello",
+                  "title": "issue_tracker"
                 }
               }
             ]
@@ -57,7 +101,7 @@
                 "state": {
                   "type": "search",
                   "state": {
-                    "query": "hunting",
+                    "query": "combat",
                     "matchingCase": true,
                     "explainSearch": false,
                     "collapseAll": false,
@@ -81,7 +125,8 @@
                   "title": "Bookmarks"
                 }
               }
-            ]
+            ],
+            "currentTab": 1
           }
         ],
         "direction": "horizontal",
@@ -103,7 +148,7 @@
                 "state": {
                   "type": "file-properties",
                   "state": {
-                    "file": "dark_canals/system/mechanics_core/combat/coreMec_combat_grappling.md"
+                    "file": "coreMec_rangedCombat.md"
                   },
                   "icon": "lucide-info",
                   "title": "File properties"
@@ -227,7 +272,7 @@
         }
       },
       "active": "b25160f330b17974",
-      "mtime": "2026-08-12T15:39:05+02:00"
+      "mtime": "2026-08-15T16:23:50+02:00"
     },
     "Graph Inspecting": {
       "main": {
