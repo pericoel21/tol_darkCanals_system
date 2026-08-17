@@ -21,10 +21,13 @@ kanban-plugin: list
 - [ ] Check unilateral writing of Firefight works.
 - [ ] Chaned "barrel" to "keg of gunpowder" in Explosion types
 - [ ] [[hazard_fire|Fire]]: [[condition_exposure|Exposure]] levels can be removed with water or [[skill_surgery|SURGERY]]. Why roll surgery? How many levels each?
+- [ ] [[healing]]: From [[mechanic_difficulty|Difficulty]] of the roll to [[mechanic_degreesOfSuccess|Degrees of Success]]
+- [ ] [[healing]] Performing surgery in one self is `HARD` -> `HARDER` (stupid if a easy one is hard but a hard one is still hard)
 
 
 ## Proposals
 
+- [ ] [[healing]] and [[mechanic_crafting|Crafting]] have the common rule to use more items to lower difficulty. Add it to the list of meta mechanics
 - [ ] Attribute Depletion re-write: Just talk about the boxes
 - [ ] Burnout (EMPATHY depletion): Effects on pressing for info / assesing personality
 - [ ] `LARGER` / `SMALLER` as reserved keywords to do with [[sizeCategory]]
