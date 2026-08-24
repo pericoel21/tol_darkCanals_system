@@ -1,0 +1,14 @@
+{
+	"nodes":[
+		{"id":"f8545e9289111d87","x":-720,"y":-1180,"width":560,"height":1167,"type":"file","file":"dark_canals/system/mechanics_core/combat/combat_turn.md"},
+		{"id":"9b415a376c06c053","x":-60,"y":-1180,"width":860,"height":325,"type":"text","text":"![[combat_distance#Range Bands]]"},
+		{"id":"14ae260cc2f69f37","type":"file","file":"dark_canals/system/mechanics_core/combat/combat_cover.md","x":-60,"y":-780,"width":936,"height":595},
+		{"id":"f38d76bcf05ca8ed","x":-60,"y":-140,"width":936,"height":340,"type":"text","text":"![[combat_disengage#PC Disengagement]]"},
+		{"id":"2b0ca1db1f28e384","type":"file","file":"dark_canals/system/mechanics_core/combat/combat_hitLocations.md","x":1000,"y":-1180,"width":602,"height":1181},
+		{"id":"161cd24181f0885c","x":-1640,"y":-1342,"width":814,"height":1082,"type":"file","file":"dark_canals/system/mechanics_core/combat/combat_reactionsAndCounteractions.md"},
+		{"id":"3600eaef2cc04e34","x":-686,"y":-1537,"width":492,"height":195,"type":"text","text":"# Start of the Combat\n- Characters start in a position that makes sense, from what was described previous to the combat.\n- The startting character is the one that makes sense (initiated combat through their action)"}
+	],
+	"edges":[
+		{"id":"9c8d7388343dd61a","fromNode":"3600eaef2cc04e34","fromSide":"bottom","toNode":"f8545e9289111d87","toSide":"top"}
+	]
+}

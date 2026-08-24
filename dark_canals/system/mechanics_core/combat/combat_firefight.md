@@ -1,8 +1,11 @@
 ---
 tags:
+  - combat
+  - mechanic
 aliases:
+  - Firefight
 connections:
-description:
+description: Ranged combat where participants shoot from cover
 ---
 # `= this.file.aliases[0]`
 > `= this.description`.

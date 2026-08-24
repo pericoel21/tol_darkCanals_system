@@ -6,7 +6,7 @@ tags:
 aliases:
   - Cover
 connections:
-description:
+description: Depending on the quality of the cover, and how much it covers, a character might avoid being shot in a location
 ---
 # `= this.file.aliases[0]`
 > `= this.description`.

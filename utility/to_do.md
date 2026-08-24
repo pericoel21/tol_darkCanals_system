@@ -32,11 +32,13 @@ kanban-plugin: list
 - [ ] [[combat_reach|Reach]]: Table comparing weapon tags
 - [ ] Separate types of hit (glancing, etc) from [[combat_melee|Melee]] and [[combat_ranged|Ranged Combat]].
 - [ ] [[mechanic_hazards]] look for translation of Polvorín
+- [ ] p. 98-99
+- [ ] Casting flow chart
 
 
 ## WIP
 
-- [ ] [[mec_combat_firefight]]
+- [ ] [[combat_firefight]]
 - [ ] [[stat_stamina|Stamina]]
 - [ ] [[stat_resolve|Resolve]]
 - [ ] [[mechanic_profficiencies|Proficiency]]
