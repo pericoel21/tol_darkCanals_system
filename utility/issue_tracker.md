@@ -15,6 +15,7 @@ kanban-plugin: list
 - [ ] [[hazard_fire|Fire]]: [[condition_exposure|Exposure]]: Did I do the levels right?
 - [ ] [[magic_spellResistance|Spell Resistance]] why is it not simply an [[mechanic_opposedRolls|Opposed Rolls]]? Or, how about opposed rolls always working like magic resistance?
 - [ ] Why not [[magic_aiming|Aiming a Spell]] just be [[combat_ranged|Ranged Combat]]
+- [ ] [[hazard_fire|Fire]]: [[condition_exposure|Exposure]] levels can be removed with water or [[skill_surgery|SURGERY]]. Why roll surgery? How many levels each?
 
 
 ## Spirit of the Law
@@ -22,7 +23,6 @@ kanban-plugin: list
 - [ ] [[combat_melee|Melee]]: Attacking to / from prone: I changed them from `EASY` / `HARD` to `EASIER` / `HARDER`.
 - [ ] Check unilateral writing of Firefight works.
 - [ ] Chaned "barrel" to "keg of gunpowder" in Explosion types
-- [ ] [[hazard_fire|Fire]]: [[condition_exposure|Exposure]] levels can be removed with water or [[skill_surgery|SURGERY]]. Why roll surgery? How many levels each?
 - [ ] [[healing]]: From [[mechanic_difficulty|Difficulty]] of the roll to [[mechanic_degreesOfSuccess|Degrees of Success]]
 - [ ] [[healing]] Performing surgery in one self is `HARD` -> `HARDER` (stupid if a easy one is hard but a hard one is still hard)
 - [ ] Is willpower a [[magic_lattices|Lattice]]?
