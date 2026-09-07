@@ -3,6 +3,7 @@ tags:
   - magic
   - mechanic
   - core
+  - lore
 aliases:
   - Lattices
   - Lattice
@@ -14,7 +15,7 @@ description: Ordered structures are immune to magic
 
 ## Anti-magic
 - Lattices cannot be the [[magic_casting#Subject|Subject]] of a spell.
-- They can be [[magic_aiming|targeted]], thoug.
+- They can be [[magic_aimingShooting|targeted]], thoug.
 
 ### Lattices, traces of Lattices, amorphous materials
 #### Those are Lattices

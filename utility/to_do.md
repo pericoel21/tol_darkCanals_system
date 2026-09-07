@@ -34,6 +34,7 @@ kanban-plugin: list
 - [ ] [[mechanic_hazards]] look for translation of Polvorín
 - [ ] p. 98-99
 - [ ] Casting flow chart
+- [ ] Rework [[mechanic_intensity|Intensity]] to work as a real Metamechanic
 
 
 ## WIP

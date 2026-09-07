@@ -16,3 +16,5 @@ description: Ways to shape or use magic
 - [[technique_alteration|ALTERATION]]
 - [[technique_destruction|DESTRUCTION]]
 - [[technique_transformation|TRANSFORMATION]]
+
+If a spell is [[magic_casting|Casted]] using a Technique that a character doesn't have in their list of profficiencies, the roll uses only their relevant [[mechanic_attributes|Attribute]] (disregarding the score on their [[mechanic_skills|Skill]]).

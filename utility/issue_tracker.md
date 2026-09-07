@@ -14,8 +14,10 @@ kanban-plugin: list
 - [ ] Is Firefight really neccesary?
 - [ ] [[hazard_fire|Fire]]: [[condition_exposure|Exposure]]: Did I do the levels right?
 - [ ] [[magic_spellResistance|Spell Resistance]] why is it not simply an [[mechanic_opposedRolls|Opposed Rolls]]? Or, how about opposed rolls always working like magic resistance?
-- [ ] Why not [[magic_aiming|Aiming a Spell]] just be [[combat_ranged|Ranged Combat]]
+- [ ] Why not [[magic_aimingShooting|Aiming a Spell]] just be [[combat_ranged|Ranged Combat]]
 - [ ] [[hazard_fire|Fire]]: [[condition_exposure|Exposure]] levels can be removed with water or [[skill_surgery|SURGERY]]. Why roll surgery? How many levels each?
+- [ ] in [[magic_spellLevel|Spell Level]] table i changed distance = none to ditance = None / `ENGAGED`
+- [ ] Do I understand [[magic_spellDifficulty|Spell Difficulty]] right?
 
 
 ## Spirit of the Law
@@ -38,6 +40,10 @@ kanban-plugin: list
 - [ ] [[magic_entanglement|Entanglement]]: Kind of a shame Size is the only factor in adjusting difficulty. What about Size, Visual similarity (is not all magic visual?), Material (as, using the blood or the hair of another person).
 - [ ] [[magic_forms|Forms]]: Fire controls illusion. What about adding other tangential domains, like water = memory
 - [ ] [[magic_lattices|Lattices]] work like [[magic_spellResistance|Spell Resistance]]. Not binary but gradual. A rock with medium to high iron content is more difficult to summon but not impossible. A powerful wizard may be able to summon a paperclip.
+- [ ] Severity as a metamechanic. Change Intensity -> Severity in [[magic_spellLevel|Spell Level]]
+- [ ] Complexity as a metamechanic, appears in [[magic_spellLevel|Spell Level]] but useful in [[mechanic_crafting|Crafting]]. Also, change Complexity = `COMPLEX` to `INTRICATE` to reserve Complex as a descriptor for Complesity level, not an specific level of complexity
+- [ ] Change [[mechanic_complexity|Complexity]] as to make all organic stuff `COMPLEX` or more.
+- [ ] Changed [[magic_mishaps]] table: 41-3, 31-1, 33-4, 61-4
 
 
 ## Homebrewed

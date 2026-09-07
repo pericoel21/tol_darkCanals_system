@@ -16,13 +16,13 @@ description: Each injury affects a location, and has an effect that depends on i
 ## Injury Levels
 All Effects for one level includes the effects of previous levels. 
 
-| Lvl. | Injury   | Examples                                                                            | Effects                                               | Cause                 |
-| ---- | -------- | ----------------------------------------------------------------------------------- | ----------------------------------------------------- | --------------------- |
-| 1    | Minor    | Cuts, bruising, abrasions.                                                          | None.                                                 | Unarmed attacks       |
-| 2    | Serious  | Puncture wounds, bleeding, soft tissue damage, torn muscles.                        | Causes [[mechanic_attributeDamage\|Attribute Damage]]. | Improvised weapons    |
-| 3    | Severe   | Fractures, stab wounds, deep lacerations.                                           | Injury Effect.                                        | Purpose built weapons |
-| 4    | Critical | Severed tendons, punctured organs.                                                  | Disables the location. Can be Letahal.                | Two handed weapons    |
-| 5    | Brutal   | Decapitation, hitting the ground at terminal velocity, gettin’ chomped by a dragon. | Lethal always.                                        | Siege engines         |
+| Lvl. | Injury     | Examples                                                                            | Effects                                                | Cause                 |
+| ---- | ---------- | ----------------------------------------------------------------------------------- | ------------------------------------------------------ | --------------------- |
+| 1    | `MINOR`    | Cuts, bruising, abrasions.                                                          | None.                                                  | Unarmed attacks       |
+| 2    | `SERIOUS`  | Puncture wounds, bleeding, soft tissue damage, torn muscles.                        | Causes [[mechanic_attributeDamage\|Attribute Damage]]. | Improvised weapons    |
+| 3    | `SEVERE`   | Fractures, stab wounds, deep lacerations.                                           | Injury Effect.                                         | Purpose built weapons |
+| 4    | `CRITICAL` | Severed tendons, punctured organs.                                                  | Disables the location. Can be Letahal.                 | Two handed weapons    |
+| 5    | `BRUTAL`   | Decapitation, hitting the ground at terminal velocity, gettin’ chomped by a dragon. | Lethal always.                                         | Siege engines         |
 
 ## Tracking Injuries
 In the [[character_sheet|Character Sheet]], each Hit Location has a tracker with the Levels of Injury that location can receive.

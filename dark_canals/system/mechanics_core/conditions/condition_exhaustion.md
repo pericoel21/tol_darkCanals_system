@@ -3,6 +3,7 @@ tags:
   - condition
   - core
   - mechanic
+  - stat
 aliases:
   - Exhaustion
 connections:

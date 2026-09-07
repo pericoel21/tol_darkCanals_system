@@ -3,10 +3,12 @@ tags:
   - core
   - mechanic
   - condition
+  - stat
 aliases:
   - Burnout
   - Burnout Condition
 connections:
+  - "[[attribute_empathy|EMPATHY]]"
 description: Damage of a character's Empathy due to lack of Resolve
 ---
 # `= this.file.aliases[0]`

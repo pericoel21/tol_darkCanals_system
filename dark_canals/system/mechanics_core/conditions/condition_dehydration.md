@@ -3,6 +3,7 @@ tags:
   - condition
   - mechanic
   - core
+  - stat
 aliases:
   - Dehydration
   - Dehydration Condition

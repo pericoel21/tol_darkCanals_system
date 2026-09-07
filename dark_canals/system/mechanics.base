@@ -42,7 +42,7 @@ views:
       note.description: 412
     cardSize: 350
   - type: table
-    name: Stats
+    name: Stats (All)
     filters:
       and:
         - file.tags.contains("stat")
@@ -57,3 +57,12 @@ views:
       note.description: 524
       note.tags: 311
       note.aliases: 196
+  - type: cards
+    name: Conditions
+    filters:
+      and:
+        - file.tags.contains("stat")
+        - file.tags.contains("condition")
+    order:
+      - formula.Beauty Name
+      - connections

@@ -3,6 +3,7 @@ tags:
   - core
   - magic
   - mechanic
+  - lore
 aliases:
   - The Lens
 connections:
