@@ -29,6 +29,8 @@ kanban-plugin: list
 - [ ] [[healing]] Performing surgery in one self is `HARD` -> `HARDER` (stupid if a easy one is hard but a hard one is still hard)
 - [ ] Is willpower a [[magic_lattices|Lattice]]?
 - [ ] Added a [[mechanics_size]]
+- [ ] Gear size is always just a number, and then you fit it vertically or horizontally?
+- [ ] Check what I did with [[item_booze|Booze]]
 
 
 ## Proposals
@@ -44,6 +46,7 @@ kanban-plugin: list
 - [ ] Complexity as a metamechanic, appears in [[magic_spellLevel|Spell Level]] but useful in [[mechanic_crafting|Crafting]]. Also, change Complexity = `COMPLEX` to `INTRICATE` to reserve Complex as a descriptor for Complesity level, not an specific level of complexity
 - [ ] Change [[mechanic_complexity|Complexity]] as to make all organic stuff `COMPLEX` or more.
 - [ ] Changed [[magic_mishaps]] table: 41-3, 31-1, 33-4, 61-4
+- [ ] Reserve the word "kit" for packs of items. things like the writing kit -> writing set
 
 
 ## Homebrewed

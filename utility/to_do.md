@@ -35,6 +35,7 @@ kanban-plugin: list
 - [ ] p. 98-99
 - [ ] Casting flow chart
 - [ ] Rework [[mechanic_intensity|Intensity]] to work as a real Metamechanic
+- [ ] connect [[item_bandages|Bandages]] to its rules
 
 
 ## WIP

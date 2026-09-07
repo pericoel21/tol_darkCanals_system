@@ -42,5 +42,7 @@ It is possible to spend [[stat_resolve|Resolve]] to cancel rolled 1s in a one-pe
 ## Recovering Stress
 Stress might be [[mechanic_recoveringStress|Recovered]] with the help of other Character (by using their [[skill_appeal|APPEAL]]), or by relaxing in a safe place.
 
+Stress can also be recovered by drinking [[item_booze|Booze]], but it causes a level of [[condition_dehydration|Dehydration]].
+
 ## Marking Stress in the [[character_sheet|Character Sheet]]
 - Each time Stress is added, mark it with the corresponding number, sequentially.

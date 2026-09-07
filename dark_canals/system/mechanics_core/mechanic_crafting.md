@@ -33,15 +33,15 @@ Succeed or fail, the scrap is used up.
 
 ### Crafting Ingredients
 
-| Item                              | Scrap                                                            | Tools                                                                      |
-| --------------------------------- | ---------------------------------------------------------------- | -------------------------------------------------------------------------- |
-| [[item_shortbow\|Short Bow]]      | Wood Scrap                                                       | [[item_whittlingKnife\|Whittling Knife]], [[mechanic_makingCamp\|Campfire]] |
-| [[item_arrow\|Wood Head Arrows]]  | Wood Scrap (Makes 20 arrows)                                     | [[item_whittlingKnife\|Whittling Knife]]                                   |
-| Leather Scrap                     | Animal Scrap                                                     | [[item_leatherKnife\|Leather Knife]], [[mechanic_makingCamp\|Campfire]]     |
-| [[item_oil\|Oil]]                 | Animal Scrap                                                     | [[item_whittlingKnife\|Whittling Knife]]                                   |
-| [[item_torch\|Torches]]           | Wood Scrap + [[item_oil\|Oil]] (Makes 5 [[item_torch\|Torches]]) | [[item_whittlingKnife\|Whittling Knife]]                                   |
-| [[item_rope\|Rope]]               | Plant Scrap (makes half a chain)                                 | [[item_leatherKnife\|Leather Knife]]                                       |
-| [[item_waterskin\|Water Skin]]    | Animal Scrap                                                     | [[item_sewingKit\|Sewing Kit]]                                             |
-| [[item_bandages\|Bandages]]       | Plant Scrap or Cloth Scrap                                       | [[item_sewingKit\|Sewing Kit]]                                             |
-| [[item_clothing\|Rough Clothing]] | Cloth Scrap (Makes one item)                                     | [[item_sewingKit\|Sewing Kit]]                                             |
-| [[item_pole\|10ft Pole]]          | Wood Scrap                                                       | [[item_whittlingKnife\|Whittling Knife]]                                   |
+| Item                              | Scrap                                                                                | Tools                                                                       |
+| --------------------------------- | ------------------------------------------------------------------------------------ | --------------------------------------------------------------------------- |
+| [[item_shortbow\|Short Bow]]      | [[item_woodScrap\|Wood Scrap]]                                                       | [[item_whittlingKnife\|Whittling Knife]], [[mechanic_makingCamp\|Campfire]] |
+| [[item_arrow\|Wood Head Arrows]]  | [[item_woodScrap\|Wood Scrap]] (Makes 20 [[item_arrows\|Arrows]])                    | [[item_whittlingKnife\|Whittling Knife]]                                    |
+| Leather Scrap                     | [[item_animalScrap\|Animal Scrap]]                                                   | [[item_leatherKnife\|Leather Knife]], [[mechanic_makingCamp\|Campfire]]     |
+| [[item_oil\|Oil]]                 | [[item_animalScrap\|Animal Scrap]]                                                   | [[item_whittlingKnife\|Whittling Knife]]                                    |
+| [[item_torch\|Torches]]           | [[item_woodScrap\|Wood Scrap]] + [[item_oil\|Oil]] (Makes 5 [[item_torch\|Torches]]) | [[item_whittlingKnife\|Whittling Knife]]                                    |
+| [[item_rope\|Rope]]               | [[item_plantScrap\|Plant Scrap]] (makes half a chain)                                | [[item_leatherKnife\|Leather Knife]]                                        |
+| [[item_waterskin\|Water Skin]]    | [[item_animalScrap\|Animal Scrap]]                                                   | [[item_sewingKit\|Sewing Kit]]                                              |
+| [[item_bandages\|Bandages]]       | [[item_plantScrap\|Plant Scrap]] or [[item_clothScrap\|Cloth Scrap]]                 | [[item_sewingKit\|Sewing Kit]]                                              |
+| [[item_clothing\|Rough Clothing]] | [[item_clothScrap\|Cloth Scrap]] (Makes one item)                                    | [[item_sewingKit\|Sewing Kit]]                                              |
+| [[item_pole\|10ft Pole]]          | [[item_woodScrap\|Wood Scrap]]                                                       | [[item_whittlingKnife\|Whittling Knife]]                                    |

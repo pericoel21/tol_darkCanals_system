@@ -27,5 +27,5 @@ A character dies if they...
 
 ## Weight of a Corpse
 - The gear a dead character was carrying must be transferred from their inventory (or backpack) in order to transport it.
-- The corpse itself counts as equipping two [[heavyITems|Heavy Items]] (akes two people to carry one corpse).
+- The corpse itself counts as equipping two [[trait_heavy|Heavy Items]] (akes two people to carry one corpse).
 - While carrying a corpse, a PC cannot hold anything else with their hands (if they pick something up, they drop the corpse).

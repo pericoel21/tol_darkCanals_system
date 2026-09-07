@@ -20,11 +20,17 @@ Camping in untamed wilderness or in a dungeon, where monsters lurk and can set u
 
 It can be made a Safe Place by either:
 - [[mechanic_makingCamp|Making Camp]] and establishing watches.
-- Using recreational substances like booze or pipeweed.
+- Using [[desambiguation_recreationalSubstances|recreational substances]] like [[item_booze|booze]] booze or [[item_pipeweed|pipeweed]].
 
 #### Sleeping
 Sleeping does not count as "relaxing" in this case.
 > Consider if you come home from work and go straight to bed without winding down first - without a chance to decompress, your levels of Stress are going to build up over time.
+
+#### Booze
+![[item_booze#Using Booze]]
+
+#### Pipeweed
+![[item_pipeweed#Using Pipeweed]]
 
 ## Recovery Through Appeal
 Once per [[mechanic_watches|Watch]], if another Character makes a successful [[skill_appeal|APPEAL]] roll, they can reduce the Character [[stat_stress|Stress]] Stress by one.

@@ -7,15 +7,23 @@ aliases:
   - Torches
   - Torch
 connections:
-description: Torches provide light and can help make campfires
+description: Provide low light in close range and can help make campfires
+size: 1
+stack: 5
+kit:
+  - "[[item_kit_dungeoneer|Dungeoneer's Kit]]"
 ---
 # `= this.file.aliases[0]`
 > `= this.description`.
 
-## Torch Light
-Torches help **reduce the [[mechanic_difficulty|Difficulty]] of [[hazard_darkness|Darkness]]** by one step each.
+| Size          | Stack          |
+| ------------- | -------------- |
+| `= this.size` | `= this.stack` |
 
-In a dungeon, one torch makes most rolls `HARD`, and two, `AVERAGE`.
+## Torch Light
+- By itself, it is [[hazard_darkness|low light]] up to `CLOSE` [[combat_distance|distance]].
+- Torches help **reduce the [[mechanic_difficulty|Difficulty]] of [[hazard_darkness|Darkness]]** by one step each.
+- In a dungeon, one torch makes most rolls `HARD`, and two, `AVERAGE`.
 
 ## Camping in a Bare Place
 In some places (like deserts or dungeons), there are no **available materials to make a fire** when [[mechanic_makingCamp|Camping]]. **Torches must be used,** instead.

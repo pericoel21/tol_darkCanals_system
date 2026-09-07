@@ -8,10 +8,10 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "path:dark_canals/system/mechanics_corells  ",
+      "query": "path:dark_canals/system/mechanics_core  ",
       "color": {
         "a": 1,
-        "rgb": 10354509
+        "rgb": 6376959
       }
     }
   ],
@@ -20,11 +20,11 @@
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 1,
-  "collapse-forces": false,
+  "collapse-forces": true,
   "centerStrength": 0.518713248970312,
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 3.55555555555555,
+  "scale": 1.5802469135802444,
   "close": true
 }

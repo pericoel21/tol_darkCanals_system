@@ -14,7 +14,7 @@ Up to four [[rawFood|Raw Food]] portions or [[item_cookedFood|Cooked Food]] port
 
 The PC rolls [[skill_techne|TECHNE]], at `VERY EASY` [[mechanic_difficulty|Difficulty]].
 
-A Success allows one [[rawFood|Raw Food]] or [[item_cookedFood|Cooked Food]] portion to be preserved as a [[item_ration|Ration]]. The amount of preserved food doubles with each [[mechanic_degreesOfSuccess|Degree of Success]] (1, 2, 4, 8).
+A Success allows one [[item_rawFood|Raw Food]] or [[item_cookedFood|Cooked Food]] portion to be preserved as a [[item_ration|Ration]]. The amount of preserved food doubles with each [[mechanic_degreesOfSuccess|Degree of Success]] (1, 2, 4, 8).
 
 On a Fail, or if not enough [[mechanic_degreesOfSuccess|Degrees of Success]] are rolled, some of the initial portions of food might not be coverted.
 - All remaining portions can be consumed directly.

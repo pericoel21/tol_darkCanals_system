@@ -9,6 +9,9 @@
     "Keywords": "multitext",
     "Status": "multitext",
     "Author": "multitext",
-    "connections": "multitext"
+    "connections": "multitext",
+    "stack": "number",
+    "size": "number",
+    "kit": "multitext"
   }
 }
