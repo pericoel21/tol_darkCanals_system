@@ -7,7 +7,7 @@ aliases:
 connections:
   - "[[item_ironSpikes|Iron Spikes]]"
 description: Hammer iron spikes, and other stuff
-size: 2
+item-size: 2
 stack: 1
 kit:
   - "[[item_kit_climber|Climber's Kit]]"
@@ -17,4 +17,4 @@ kit:
 
 | Size          | Stack          |
 | ------------- | -------------- |
-| `= this.size` | `= this.stack` |
+| `= this.item-size` | `= this.stack` |

@@ -9,7 +9,7 @@ connections:
   - "[[mechanic_recoveringStress|Stress Recovery]]"
   - "[[condition_exhaustion|Exhaustion]]"
 description: Reduces stress to zero, but causes exhaustion
-size: 1
+item-size: 1
 stack: 5
 kit:
   - "[[item_kit_surgeon|Surgeon's Kit]]"
@@ -19,7 +19,7 @@ kit:
 
 | Size          | Stack          |
 | ------------- | -------------- |
-| `= this.size` | `= this.stack` |
+| `= this.item-size` | `= this.stack` |
 
 ## Using Pipeweed
 - When using pipeweed, an unsafe location can be made to feel safe in terms of [[mechanic_recoveringStress|recovering Stress]].

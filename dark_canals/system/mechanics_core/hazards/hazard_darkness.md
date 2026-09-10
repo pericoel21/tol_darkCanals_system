@@ -20,4 +20,4 @@ description: Darkness makes stuf harder to do
 - Moving more than [[combat_distance|Half a Chain (one Zone)]] requires a [[skill_mobility|MOBILITY]] roll.
 - One torch makes this `EASIER`, two negate the requirement for [[skill_mobility|MOBILITY]].
 
-> See [[mechanic_hazards|Hazards]], [[mechanic_torchesGutter]].
+> See [[hazard_general|Hazards]], [[mechanic_torchesGutter]].

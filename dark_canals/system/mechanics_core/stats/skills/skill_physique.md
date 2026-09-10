@@ -19,6 +19,6 @@ Associated [[mechanic_attributes|Attribute]]: `=this.connections[0]`
 Uses:
 - Lift, shove, break.
 - [[reactions_block|BLOCK]] an attack.
-- Using a [[item_shield|shield]]
-- Resisting a [[grapple|grapple]]
+- Using a [[mechanics_shield|shield]].
+- Resisting a [[combat_grappling|grapple]]
 - Intimidate someone (opposed against the NPC’s [[skill_endure|ENDURE]]).

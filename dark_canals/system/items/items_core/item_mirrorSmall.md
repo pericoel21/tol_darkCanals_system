@@ -6,7 +6,7 @@ aliases:
   - Small Mirror
 connections:
 description: For vanity, or peering around corners
-size: 1
+item-size: 1
 stack: 1
 kit:
   - "[[item_kit_performer|Performer's Kit]]"
@@ -16,4 +16,4 @@ kit:
 
 | Size          | Stack          |
 | ------------- | -------------- |
-| `= this.size` | `= this.stack` |
+| `= this.item-size` | `= this.stack` |

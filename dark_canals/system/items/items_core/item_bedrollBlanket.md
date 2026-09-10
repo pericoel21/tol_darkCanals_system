@@ -8,7 +8,7 @@ aliases:
 connections:
   - "[[mechanic_sleeping|Sleep]]"
 description: Sleep on the ground.
-size: 2
+item-size: 2
 stack: 1
 kit:
   - "[[item_kit_survivalist|Survivalist's Kit]]"
@@ -18,4 +18,4 @@ kit:
 
 | Size          | Stack          |
 | ------------- | -------------- |
-| `= this.size` | `= this.stack` |
+| `= this.item-size` | `= this.stack` |

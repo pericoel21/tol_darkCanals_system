@@ -2,6 +2,7 @@
 tags:
   - core
   - mechanic
+  - metamechanic
 aliases:
   - Trading & Fencing
   - Trading
@@ -34,7 +35,7 @@ There is no one in the current [[mechanic_settlements|Settlement]] who wants to 
 - You can try again in the current [[mechanic_settlements|Settlement]] in one week’s time.
 
 #### Succeeding the Roll
-Exchange one [[mechanic_coin|COIN]] for a unit of Trade Goods (a "cartload").
+Exchange one [[mechanic_coin|COIN]] for a unit of Trade Goods (a [[mechanic_cart#Cartload|Cartload]]).
 
 ## Selling or Fencing Process
 - Spend a [[mechanic_watches|Watch]] looking for a buyer.

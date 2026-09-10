@@ -5,11 +5,11 @@ tags:
 aliases:
   - Whetstone
 connections:
-  - "[[repair]]"
+  - "[[repairingWeapons]]"
   - "[[trait_rusty|Rust]]"
   - "[[trait_damaged|Damaged]]"
 description: For repairing rusty or damaged weapons
-size: 0
+item-size: 0
 stack:
 kit:
   - "[[item_kit_smith|Smith's Kit]]"
@@ -19,4 +19,4 @@ kit:
 
 | Size          | Stack          |
 | ------------- | -------------- |
-| `= this.size` | `= this.stack` |
+| `= this.item-size` | `= this.stack` |

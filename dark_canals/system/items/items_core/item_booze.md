@@ -9,7 +9,7 @@ connections:
   - "[[condition_dehydration|Dehydration]]"
   - "[[stat_stress|Stress]]"
 description: Reduces stress to zero but causes dehydration
-size: 1
+item-size: 1
 stack: 1
 kit:
   - "[[item_kit_performer|Performer's Kit]]"
@@ -19,7 +19,7 @@ kit:
 
 | Size          | Stack          |
 | ------------- | -------------- |
-| `= this.size` | `= this.stack` |
+| `= this.item-size` | `= this.stack` |
 
 ## Using Booze
 - When using booze, an unsafe location can be made to feel safe in terms of [[mechanic_recoveringStress|recovering Stress]].

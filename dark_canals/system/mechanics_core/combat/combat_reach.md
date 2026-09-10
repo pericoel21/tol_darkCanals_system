@@ -12,9 +12,9 @@ description: A longer reach in melee attacks gives a character the edge in comba
 > `= this.description`.
 
 ## Definition
-Reach is the compairson between the length of the [[item_weapon|Weapons]] being used in a [[combat_melee|Melee]].
+Reach is the compairson between the length of the [[weapons_hub|Weapons]] being used in a [[combat_melee|Melee]].
 
-Usually, [[item_weapon|Weapons]] indicate their Reach with properties like [[traits_oneHanded|One-Handed]], [[traits_short|Short]], [[traits_long|Long]] or [[traits_heavy|Heavy]].
+Usually, [[weapons_hub|Weapons]] indicate their Reach with properties like [[traits_oneHanded|One-Handed]], [[traits_short|Short]], [[traits_long|Long]] or [[traits_heavy|Heavy]].
 
 Being mounted, or the [[sizeCategory|Size Category]] of a character also increases reach by one category.
 

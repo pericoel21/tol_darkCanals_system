@@ -7,7 +7,7 @@ aliases:
 connections:
   - "[[skill_observation|OBSERVATION]]"
 description: Makes observation easier in snow
-size: 1
+item-size: 1
 stack: 1
 kit:
   - "[[item_kit_snow|Snow Kit]]"
@@ -17,6 +17,6 @@ kit:
 
 | Size          | Stack          |
 | ------------- | -------------- |
-| `= this.size` | `= this.stack` |
+| `= this.item-size` | `= this.stack` |
 
 Makes [[skill_observation|OBSERVATION (WITS)]] in snow `EASIER` [[mechanic_difficulty|Difficulty]].

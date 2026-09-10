@@ -5,9 +5,9 @@ tags:
 aliases:
   - Armourer's Tools
 connections:
-  - "[[repairingArmour]]"
+  - "[[mechanic_armourRepair|Repairing Armour]]"
 description: Used for armour repair
-size: 2
+item-size: 2
 stack: 1
 kit:
   - "[[item_kit_smith|Smith's Kit]]"
@@ -17,4 +17,4 @@ kit:
 
 | Size          | Stack          |
 | ------------- | -------------- |
-| `= this.size` | `= this.stack` |
+| `= this.item-size` | `= this.stack` |

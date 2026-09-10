@@ -6,8 +6,9 @@ aliases:
   - Surgical Supplies
 connections:
   - "[[skill_surgery|SURGERY]]"
+  - "[[mechanic_healing|Healing]]"
 description: Leeches, catgut, healing herbs... for surgery
-size: 1
+item-size: 1
 stack: 5
 kit:
   - "[[item_kit_surgeon|Surgeon's Kit]]"
@@ -17,4 +18,4 @@ kit:
 
 | Size          | Stack          |
 | ------------- | -------------- |
-| `= this.size` | `= this.stack` |
+| `= this.item-size` | `= this.stack` |

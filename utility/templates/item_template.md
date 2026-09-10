@@ -1,11 +1,10 @@
 ---
 tags:
   - item
-  - core
 aliases:
 connections:
 description:
-size:
+item-size:
 stack:
 kit:
 ---
@@ -14,4 +13,4 @@ kit:
 
 | Size          | Stack          |
 | ------------- | -------------- |
-| `= this.size` | `= this.stack` |
+| `= this.item-size` | `= this.stack` |

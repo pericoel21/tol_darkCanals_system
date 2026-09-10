@@ -10,8 +10,23 @@
     "Status": "multitext",
     "Author": "multitext",
     "connections": "multitext",
+    "kit": "multitext",
+    "traits": "multitext",
+    "injury": "multitext",
+    "weapon-type": "multitext",
+    "location": "multitext",
+    "npc-type": "multitext",
+    "empathy": "number",
+    "wits": "number",
+    "agility": "number",
+    "strength": "number",
+    "skills-plus": "multitext",
+    "skills+": "multitext",
+    "skills++": "multitext",
+    "skills+++": "multitext",
+    "inventory": "multitext",
+    "item-size": "number",
     "stack": "number",
-    "size": "number",
-    "kit": "multitext"
+    "size": "text"
   }
 }

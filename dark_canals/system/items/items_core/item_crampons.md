@@ -6,7 +6,7 @@ aliases:
   - Crampons
 connections:
 description: For traversing ice without slipping (come in pairs)
-size: 2
+item-size: 2
 stack: 1
 kit:
   - "[[item_kit_snow|Snow Kit]]"
@@ -16,4 +16,4 @@ kit:
 
 | Size          | Stack          |
 | ------------- | -------------- |
-| `= this.size` | `= this.stack` |
+| `= this.item-size` | `= this.stack` |

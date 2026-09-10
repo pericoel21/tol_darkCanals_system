@@ -3,6 +3,7 @@ tags:
   - core
   - mechanic
   - hazard
+  - metamechanic
 aliases:
   - Hazards (Generalized)
   - Hazards

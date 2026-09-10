@@ -14,7 +14,7 @@ description: Fire is handled by a combination of injuries and the exposure condi
 # `= this.file.aliases[0]`
 > `= this.description`.
 
-- Fire damage is handled through the table for [[mechanic_hazards|Hazards]].
+- Fire damage is handled through the table for [[hazard_general|Hazards]].
 - No tracking of timers or turns needed.
 - [[mechanic_injury|Injuries]] of `SEVERE` level or higher also cause levels of [[condition_exposure|Exposure Condition]] (see table).
 - Levels of exposure from fire are tracked by marking boxes with an F.

@@ -22,7 +22,7 @@ Increasing the spell’s size, moving something a longer distance, increasing th
 
 ### Factors of Spell level
 
-| Level / # Targets | [[mechanics_size\|Size]]              | [[combat_distance\|Distance]] | [[mechanic_intensity\|Intensity]] | [[mechanic_complexity\|Complexity]] |
+| Level / # Targets | [[mechanic_size\|Size]]              | [[combat_distance\|Distance]] | [[mechanic_intensity\|Intensity]] | [[mechanic_complexity\|Complexity]] |
 | ----------------- | ------------------------------------- | ----------------------------- | --------------------------------- | ----------------------------------- |
 | 0                 | `TINY`                                | None / `Engaged`              | Illusory                          | `ELEMENTAL`                         |
 | 1                 | `SMALL`                               | `CLOSE`                       | `MINOR`                           | `SIMPLE`                            |

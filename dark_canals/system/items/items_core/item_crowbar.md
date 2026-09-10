@@ -6,7 +6,7 @@ aliases:
   - Crowbar
 connections:
 description: For prying stuff open
-size: 4
+item-size: 4
 stack: 1
 kit:
   - "[[item_kit_thief|Thieves' Kit]]"
@@ -16,4 +16,4 @@ kit:
 
 | Size          | Stack          |
 | ------------- | -------------- |
-| `= this.size` | `= this.stack` |
+| `= this.item-size` | `= this.stack` |

@@ -23,14 +23,14 @@ description: Managing distances in combat
 
 ## Range Bands
 
-| Range     | Description                                | Zones      | Medieval dist. | Meters | Ft.          |
-| --------- | ------------------------------------------ | ---------- | -------------- | ------ | ------------ |
-| `ENGAGED` | Close enough to stab                       | Same       | A stride       | Few    | Few          |
-| `CLOSE`   | Striking distance                          | Same       | Half Chain     | ~10    | ~30          |
-| `SHORT`   | Optimal [[item_shortbow\|Short Bow]] range | Adjacent   | A Chain        | ~20    | ~60          |
-| `LONG`    | Optimal [[item_longbow\|Longbow]] range    | 3-4 across | Two Chains     | ~40    | ~120         |
-| `FAR`     | [[item_shortbow\|Short Bow]] maximum       | 10 across  | A Furlong      | ~200   | ~600         |
-| `EXTREME` | [[item_longbow\|Longbow]] maximum          | 20 across  | Two Furlongs   | ~400   | Quarter mile |
+| Range     | Description                                  | Zones      | Medieval dist. | Meters | Ft.          |
+| --------- | -------------------------------------------- | ---------- | -------------- | ------ | ------------ |
+| `ENGAGED` | Close enough to stab                         | Same       | A stride       | Few    | Few          |
+| `CLOSE`   | Striking distance                            | Same       | Half Chain     | ~10    | ~30          |
+| `SHORT`   | Optimal [[weapon_bowShort\|Short Bow]] range | Adjacent   | A Chain        | ~20    | ~60          |
+| `LONG`    | Optimal [[weapon_bowLong\|Long Bow]] range   | 3-4 across | Two Chains     | ~40    | ~120         |
+| `FAR`     | [[weapon_bowShort\|Short Bow]] maximum       | 10 across  | A Furlong      | ~200   | ~600         |
+| `EXTREME` | [[weapon_bowLong\|Long Bow]] maximum         | 20 across  | Two Furlongs   | ~400   | Quarter mile |
 
 ## Applying Distances in Play
 ### Natural Distances

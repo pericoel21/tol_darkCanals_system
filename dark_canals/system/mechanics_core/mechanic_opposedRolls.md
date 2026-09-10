@@ -13,7 +13,7 @@ description: Methods of rolling in opposition to another character
 ## Factor for Difficulty
 When a [[mechanic_rollResolution|Roll]] is opposed by another Character's [[mechanic_skills|Skill]] (usually an NPC), the base [[mechanic_difficulty|Difficulty]] of that roll is determined by the Character's dice pool in that [[mechanic_skills|Skill]].
 
-### Dice Pool v. Difficulty Relation
+### Dice Pool vs. Difficulty Relation
 
 | Dice Pool | Skill       | Difficulty  | Success Die |
 | --------- | ----------- | ----------- | ----------- |

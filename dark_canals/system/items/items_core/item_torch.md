@@ -8,7 +8,7 @@ aliases:
   - Torch
 connections:
 description: Provide low light in close range and can help make campfires
-size: 1
+item-size: 1
 stack: 5
 kit:
   - "[[item_kit_dungeoneer|Dungeoneer's Kit]]"
@@ -18,7 +18,7 @@ kit:
 
 | Size          | Stack          |
 | ------------- | -------------- |
-| `= this.size` | `= this.stack` |
+| `= this.item-size` | `= this.stack` |
 
 ## Torch Light
 - By itself, it is [[hazard_darkness|low light]] up to `CLOSE` [[combat_distance|distance]].

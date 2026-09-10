@@ -6,7 +6,7 @@ aliases:
   - Auger
 connections:
 description: For drilling holes in wood
-size: 1
+item-size: 1
 stack: 1
 kit:
   - "[[item_kit_craftsman|Craftsman's Kit]]"
@@ -16,4 +16,4 @@ kit:
 
 | Size          | Stack          |
 | ------------- | -------------- |
-| `= this.size` | `= this.stack` |
+| `= this.item-size` | `= this.stack` |

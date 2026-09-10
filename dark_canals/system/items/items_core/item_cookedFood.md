@@ -6,7 +6,7 @@ aliases:
   - Cooked Food
 connections:
 description: Food, spoils.
-size: 1
+item-size: 1
 stack: 5
 ---
 # `= this.file.aliases[0]`
@@ -14,7 +14,7 @@ stack: 5
 
 | Size          | Stack          |
 | ------------- | -------------- |
-| `= this.size` | `= this.stack` |
+| `= this.item-size` | `= this.stack` |
 
 - Spoils at the end of the day.
 - Can be created by [[mechanic_cooking|Cooking]].

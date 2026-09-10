@@ -1,0 +1,40 @@
+filters:
+  and:
+    - file.path.contains("items/traits")
+    - '!file.name.contains("_base")'
+formulas:
+  Name: aliases[0]
+  Trait Domain: note["trait-type"][0]
+views:
+  - type: table
+    name: All Traits
+    groupBy:
+      property: formula.Trait Domain
+      direction: ASC
+    order:
+      - file.name
+      - formula.Name
+      - trait-type
+      - description
+    sort:
+      - property: trait-type
+        direction: ASC
+    columnSize:
+      file.name: 45
+      note.description: 757
+  - type: table
+    name: All Trait Types
+    groupBy:
+      property: trait-type
+      direction: ASC
+    order:
+      - file.name
+      - formula.Name
+      - trait-type
+      - description
+    sort:
+      - property: trait-type
+        direction: ASC
+    columnSize:
+      file.name: 45
+      note.description: 757

@@ -6,6 +6,9 @@ tags:
 aliases:
   - Armour
 connections:
+  - "[[mechanic_armour_donning|Donning Armour]]"
+  - "[[mechanic_armour_cost|Armour Cost]]"
+  - "[[mechanic_armourRepair|Repairing Armour]]"
 description: Armour protects a specific part of the body, and it can be layered
 ---
 # `= this.file.aliases[0]`
@@ -19,9 +22,9 @@ When a PC receives an [[mechanic_injury|Injury]] on a [[combat_hitLocations|Hit 
 - Else, the Armour Level is subtracted from the [[mechanic_injury|Injury Level]]. The resulting number is the [[mechanic_injury|Level of the Injury]] that the PC receives.
 
 ### Armour damage
-> See [[repairingArmour|Repairing Armour]]
-- [[weapon|Weapons]] might have traits which damage a specific type of [[item_armour|Armour]].
-- Damage to [[item_armour|Armour]] only happens on an attack which generates an [[mechanic_injury|Injury]] (so, when it equals or exceeds the Armor Level).
+> See [[mechanic_armourRepair|Repairing Armour]]
+- [[weapon|Weapons]] might have traits which damage a specific type of [[mechanic_armour|Armour]].
+- Damage to [[mechanic_armour|Armour]] only happens on an attack which generates an [[mechanic_injury|Injury]] (so, when it equals or exceeds the Armor Level).
 - Only the outermost, un-damaged armour can be damaged.
 - Once the armour is damaged, it no longer provides benefits.
 

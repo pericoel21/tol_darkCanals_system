@@ -35,7 +35,7 @@ Succeed or fail, the scrap is used up.
 
 | Item                              | Scrap                                                                                | Tools                                                                       |
 | --------------------------------- | ------------------------------------------------------------------------------------ | --------------------------------------------------------------------------- |
-| [[item_shortbow\|Short Bow]]      | [[item_woodScrap\|Wood Scrap]]                                                       | [[item_whittlingKnife\|Whittling Knife]], [[mechanic_makingCamp\|Campfire]] |
+| [[weapon_bowShort\|Short Bow]]    | [[item_woodScrap\|Wood Scrap]]                                                       | [[item_whittlingKnife\|Whittling Knife]], [[mechanic_makingCamp\|Campfire]] |
 | [[item_arrow\|Wood Head Arrows]]  | [[item_woodScrap\|Wood Scrap]] (Makes 20 [[item_arrows\|Arrows]])                    | [[item_whittlingKnife\|Whittling Knife]]                                    |
 | Leather Scrap                     | [[item_animalScrap\|Animal Scrap]]                                                   | [[item_leatherKnife\|Leather Knife]], [[mechanic_makingCamp\|Campfire]]     |
 | [[item_oil\|Oil]]                 | [[item_animalScrap\|Animal Scrap]]                                                   | [[item_whittlingKnife\|Whittling Knife]]                                    |

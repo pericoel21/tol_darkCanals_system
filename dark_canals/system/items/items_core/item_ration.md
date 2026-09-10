@@ -10,7 +10,7 @@ connections:
   - "[[item_cookedFood|Cooked Food]]"
   - "[[item_rawFood|Raw Food]]"
 description: Food, don't spoil.
-size: 1
+item-size: 1
 stack: 5
 kit:
   - "[[item_kit_starter|Starter Kit]]"
@@ -20,6 +20,6 @@ kit:
 
 | Size          | Stack          |
 | ------------- | -------------- |
-| `= this.size` | `= this.stack` |
+| `= this.item-size` | `= this.stack` |
 
 - Can be created through [[mechanic_preservingFood|Preserving Food]].

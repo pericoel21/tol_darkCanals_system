@@ -7,7 +7,7 @@ aliases:
 connections:
   - "[[item_water]]"
 description: Used for drinking (free refills in Settlements or natural sources)
-size: 1
+item-size: 1
 stack: 5
 kit:
   - "[[item_kit_starter|Starter Kit]]"
@@ -17,4 +17,4 @@ kit:
 
 | Size          | Stack          |
 | ------------- | -------------- |
-| `= this.size` | `= this.stack` |
+| `= this.item-size` | `= this.stack` |

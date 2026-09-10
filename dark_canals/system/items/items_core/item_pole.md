@@ -6,7 +6,7 @@ aliases:
   - Pole
 connections:
 description: Poke at things
-size: 4
+item-size: 4
 stack: 5
 kit:
   - "[[item_kit_dungeoneer|Dungeoneer's Kit]]"
@@ -16,4 +16,4 @@ kit:
 
 | Size          | Stack          |
 | ------------- | -------------- |
-| `= this.size` | `= this.stack` |
+| `= this.item-size` | `= this.stack` |

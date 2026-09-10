@@ -35,7 +35,7 @@ description: Grappling enemies allows for attacks that bypass their armor
 ### Attacking
 - **Unarmed** [[skill_fight|FIGHT]] attacks **ignore [[mechanic_armour|Armour]].**
 - Weapons larger than a dagger **(not [[traits_short|SHORT]])** are difficult to use: **Only cause [[mechanic_injury|Minor Injuries]].**
-- [[traits_short|SHORT]] [[weapon|Weapons]] **ignore [[item_plateArmour|Plate Armour]].**
+- [[traits_short|SHORT]] [[weapon|Weapons]] **ignore [[hub_armour_plate|Plate Armour]]** and [[hub_armour_reinforcedPlate|Reinforced Plate]].
 
 ### Chokehold
 While grappling, [[mechanic_rollResolution|roll]] [[skill_fight|FIGHT]] to lock the opponent in a chokehold.

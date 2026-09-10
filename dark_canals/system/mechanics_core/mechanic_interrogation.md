@@ -1,8 +1,15 @@
 ---
 tags:
+  - core
+  - mechanic
 aliases:
+  - Interrogation
+  - Pressing for Information
+  - Assessing Personality
+  - Social Combat
 connections:
-description:
+  - "[[mechanic_npcCreation|NPC Creation]]"
+description: Ways to asses & extract information from NPCs
 ---
 # `= this.file.aliases[0]`
 > `= this.description`.

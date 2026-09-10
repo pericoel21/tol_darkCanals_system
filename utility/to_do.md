@@ -31,11 +31,13 @@ kanban-plugin: list
 - [ ] create an Engaged Range page
 - [ ] [[combat_reach|Reach]]: Table comparing weapon tags
 - [ ] Separate types of hit (glancing, etc) from [[combat_melee|Melee]] and [[combat_ranged|Ranged Combat]].
-- [ ] [[mechanic_hazards]] look for translation of Polvorín
+- [ ] [[hazard_general]] look for translation of Polvorín
 - [ ] p. 98-99
 - [ ] Casting flow chart
 - [ ] Rework [[mechanic_intensity|Intensity]] to work as a real Metamechanic
 - [ ] connect [[item_bandages|Bandages]] to its rules
+- [ ] list of traits within [[mechanic_itemTraits|Traits]]
+- [ ] Do a file just for p127 (creating npcs on the fly)
 
 
 ## WIP

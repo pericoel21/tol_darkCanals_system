@@ -8,7 +8,7 @@ connections:
   - "[[condition_exposure|Exposure]]"
   - "[[mechanic_watches|Watch]]"
 description: Resist exposure from rain when on watch
-size: 1
+item-size: 1
 stack: 1
 kit:
   - "[[item_kit_survivalist|Survivalist's Kit]]"
@@ -18,4 +18,4 @@ kit:
 
 | Size          | Stack          |
 | ------------- | -------------- |
-| `= this.size` | `= this.stack` |
+| `= this.item-size` | `= this.stack` |

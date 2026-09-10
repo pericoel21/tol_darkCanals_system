@@ -7,7 +7,7 @@ aliases:
 connections:
   - "[[mechanic_coin|COIN]]"
 description: For carrying coin
-size: 1
+item-size: 1
 stack: 10
 kit:
   - "[[item_kit_starter|Starter Kit]]"
@@ -17,4 +17,4 @@ kit:
 
 | Size          | Stack          |
 | ------------- | -------------- |
-| `= this.size` | `= this.stack` |
+| `= this.item-size` | `= this.stack` |

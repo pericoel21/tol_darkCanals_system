@@ -7,7 +7,7 @@ aliases:
 connections:
   - "[[mechanic_injury|Injury]]"
 description: For stabilising lethal injuries, and to heal minor injuries
-size: 1
+item-size: 1
 stack: 5
 kit:
   - "[[item_kit_surgeon|Surgeon's Kit]]"
@@ -17,4 +17,4 @@ kit:
 
 | Size          | Stack          |
 | ------------- | -------------- |
-| `= this.size` | `= this.stack` |
+| `= this.item-size` | `= this.stack` |

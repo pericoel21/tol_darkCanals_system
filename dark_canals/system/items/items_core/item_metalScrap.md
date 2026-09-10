@@ -7,7 +7,7 @@ aliases:
 connections:
   - "[[mechanic_crafting|Crafting]]"
 description: For repairing metal armour
-size: 1
+item-size: 1
 stack: 5
 kit:
   - "[[item_kit_smith|Smith's Kit]]"
@@ -17,4 +17,4 @@ kit:
 
 | Size          | Stack          |
 | ------------- | -------------- |
-| `= this.size` | `= this.stack` |
+| `= this.item-size` | `= this.stack` |

@@ -14,7 +14,7 @@ description: Settlements shield characters from the threats of the wilderness an
 > See [[mechanic_shopping|Shopping]]
 
 ## Safety & Shelter
-The GM does not roll [[random wilderness encounters]] while on a Settlement.
+The GM does not roll [[mechanic_randomEncounters]] while on a Settlement.
 > Doesn’t mean bad stuff isn't present in a settlement, just means it isn't randomly present.
 
 It costs one [[mechanic_coin|COIN]] per week to stay in a Settlement for up to one week.

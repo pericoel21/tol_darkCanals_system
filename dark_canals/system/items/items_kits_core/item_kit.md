@@ -7,7 +7,7 @@ aliases:
   - Kit
 connections:
 description: Four items that cost 1 coin
-size:
+item-size:
 stack:
 ---
 # `= this.file.aliases[0]`

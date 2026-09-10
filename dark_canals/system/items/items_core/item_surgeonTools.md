@@ -7,7 +7,7 @@ aliases:
 connections:
   - "[[skill_surgery|SURGERY]]"
 description: For performing surgery o severe or critical injuries
-size: 2
+item-size: 2
 stack: 1
 kit:
   - "[[item_kit_surgeon|Surgeon's Kit]]"
@@ -17,4 +17,4 @@ kit:
 
 | Size          | Stack          |
 | ------------- | -------------- |
-| `= this.size` | `= this.stack` |
+| `= this.item-size` | `= this.stack` |

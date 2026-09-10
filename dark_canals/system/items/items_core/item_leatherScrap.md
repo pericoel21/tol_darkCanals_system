@@ -6,9 +6,9 @@ aliases:
   - Leather Scrap
 connections:
   - "[[mechanic_crafting|Crafting]]"
-  - "[[item_leatherArmour|Leather Armour]]"
+  - "[[armour_leather|Leather Armour]]"
 description: Used to repair leather armour
-size: 1
+item-size: 1
 stack: 5
 kit:
   - "[[item_kit_smith|Smith's Kit]]"
@@ -18,4 +18,4 @@ kit:
 
 | Size          | Stack          |
 | ------------- | -------------- |
-| `= this.size` | `= this.stack` |
+| `= this.item-size` | `= this.stack` |

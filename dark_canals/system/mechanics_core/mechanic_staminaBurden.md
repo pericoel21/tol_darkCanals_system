@@ -3,6 +3,7 @@ tags:
   - mechanic
   - core
 aliases:
+  - Stamina Burden (Mechanic)
   - Stamina Burden
 connections:
   - "[[item_backpack|Backpack]]"
@@ -17,5 +18,5 @@ description: It costs stamina to pick some things up
 
 ## Sources of Burden
 - Picking up a [[item_backpack|backpack]].
-- Picking up a [[trait_heavy|Heavy]] or [[trait_long|Long]] [[item_weapon|weapon]], or two [[trait_oneHanded]] [[item_weapon|weapons]], including [[item_shield|shields]].
-- For each piece of [[item_plateArmour|plate armor]] worn (including [[item_reinforcedPlateArmour|reinforced plate]]).
+- Picking up a [[trait_heavy|Heavy]] or [[trait_long|Long]] [[weapons_hub|weapon]], or two [[trait_oneHanded]] [[weapons_hub|weapons]], including [[item_shield|shields]].
+- For each piece of [[hub_armour_plate|plate armor]] worn (including [[hub_armour_reinforcedPlate|reinforced plate]]).

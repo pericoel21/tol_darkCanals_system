@@ -7,7 +7,7 @@ aliases:
 connections:
   - "[[condition_exposure|Exposure]]"
 description: Helps resist exposure from snow when on watch
-size: 1
+item-size: 1
 stack: 1
 kit:
   - "[[item_kit_snow|Snow Kit]]"
@@ -17,4 +17,4 @@ kit:
 
 | Size          | Stack          |
 | ------------- | -------------- |
-| `= this.size` | `= this.stack` |
+| `= this.item-size` | `= this.stack` |

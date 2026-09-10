@@ -9,26 +9,29 @@ aliases:
   - Fishing
   - Trapping
 connections:
-description: Use one roll to forage for scrap or food, fishing, hunting...
+  - "[[item_fishingRod|Fishing Rod]]"
+  - "[[item_snares|Snares]]"
+  - "[[mechanic_crafting|Crafting]]"
+description: Use one roll to forage for scrap or food, fishing & hunting
 ---
 # `= this.file.aliases[0]`
 > `= this.description`.
 
 
 Foraging or Hunting takes one [[mechanic_watches|Watch]].
-Roll an appropriate [[mechanic_skills|Skill]], with a [[mechanic_difficulty|Difficulty]] determined by the biome. 
+Roll an appropriate [[mechanic_skills|Skill]], with a [[mechanic_difficulty|Difficulty]] determined by the biome.
 
 On a Success, the PC finds one portion of the resource they were looking for. Each [[mechanic_degreesOfSuccess|Degree of Success]] adds one portion to the quantity found.
-On a Failure, the GM rolls for a [[random wilderness encounters|Random Encounter]].
+On a Failure, the GM rolls for a [[mechanic_randomEncounters|Random Encounter]].
 
 ## Actions, Skills & Goods Obatined
 
-| Action                 | Skill                              | Resulting Goods                                                    |
-| ---------------------- | ---------------------------------- | ------------------------------------------------------------------ |
-| Foraging               | [[skill_observation\|OBSERVATION]] | Wood or Plant [[mechanic_crafting\|Scrap]]; pipeweed, edible plants |
-| Fishing (with rod)     | [[skill_techne\|TECHNE]]           | Raw food                                                           |
-| Trapping (with snares) | [[skill_techne\|TECHNE]]           | Raw food, Animal [[mechanic_crafting\|Scrap]]                       |
-| Hunting                | [[skill_ballistics\|BALLISTICS]]]  | Raw food, Animal [[mechanic_crafting\|Scrap]]                       |
+| Action                                  | Skill                              | Resulting Goods                                                                                            |
+| --------------------------------------- | ---------------------------------- | ---------------------------------------------------------------------------------------------------------- |
+| Foraging                                | [[skill_observation\|OBSERVATION]] | [[item_scrap_wood\|wood]] or [[item_scrap_plant\|plant scrap]]; [[item_pipeweed\|Pipeweed]], edible plants |
+| Fishing (with [[item_fishingRod\|rod]]) | [[skill_techne\|TECHNE]]           | [[item_rawFood\|Raw Food]]                                                                                 |
+| Trapping (with [[item_snares\|snares]]) | [[skill_techne\|TECHNE]]           | [[item_rawFood\|Raw Food]], [[item_scrap_animal\|animal scrap]]                                            |
+| Hunting                                 | [[skill_ballistics\|BALLISTICS]]   | [[item_rawFood\|Raw Food]], [[item_scrap_animal\|animal scrap]]                                            |
 
 ## Biome vs. Difficulty
 Fishing is `VERY EASY` when the biome is costal or near a large body of water.

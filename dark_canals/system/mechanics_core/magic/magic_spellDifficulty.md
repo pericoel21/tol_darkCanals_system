@@ -6,6 +6,7 @@ tags:
 aliases:
   - Spell Difficulty
 connections:
+  - "[[magic_casting|Casting]]"
 description: A spell caster might cast a spell at a different level than the initially calculated one
 ---
 # `= this.file.aliases[0]`

@@ -14,8 +14,10 @@ description: Combat from a distance
 > `= this.description`.
 
 ## Requisites
-- [[traits_ranged|Ranged]] or [[traits_thrown|Thrown]] [[item_weapon|Weapon]].
+- [[traits_ranged|Ranged]] or [[traits_thrown|Thrown]] [[weapons_hub|Weapon]].
 - Too long of a [[combat_distance|Distance]] might make [[mechanic_difficulty|Difficulty]] `IMPOSSIBLE`.
+- [[trait_damaged|Damaged]] weapons cannot fire.
+- Having ammunition for the specific weapon.
 
 ## Rolling the Attack
 - Attacker [[mechanic_rollResolution|Rolls]] [[skill_ballistics|BALLISTICS]] and declares [[combat_hitLocations|Hit Location]].
@@ -38,7 +40,7 @@ description: Combat from a distance
 - If not [[movement|moved]], the attack is considered as "aimed" (`AVERAGE`).
 
 #### Range
-- Every [[item_weapon|Weapon]] has an optimal [[combat_distance|Distances]] as per its [[traits_range|Range Trait]].
+- Every [[weapons_hub|Weapon]] has an optimal [[combat_distance|Distances]] as per its [[traits_range|Range Trait]].
 - [[mechanic_difficulty|Difficulty]] is `HARDER` for every [[combat_distance|Range Band]] (both closer or further).
 - When too close, it is never `IMPOSSIBLE` (`VERY HARD` is tme maximum [[mechanic_difficulty|Difficulty]]).
 - WHen too far away, [[mechanic_difficulty|Difficulty]] might be `IMPOSSIBLE`.
@@ -68,3 +70,7 @@ description: Combat from a distance
 
 #### Shooting into a Melee
 If shooting a character who is [[combat_distance|Engaged]] with another in a [[combat_melee|Melee]], and the shoot has exactly -1 [[mechanic_degreesOfSuccess|Degrees of Success]], it causes a [[glancingHit|Glancing Hit]] to a random [[combat_hitLocations|Hit Location]] of the other character.
+
+## Wood Head Arrows
+- [[mechanic_crafting|Crafted]] from [[item_woodScrap|Wood Scrap]].
+- Count as [[combat_nonWeapons|Improvised Weapons]], do only [[mechanic_injury|Severe Injuries]].

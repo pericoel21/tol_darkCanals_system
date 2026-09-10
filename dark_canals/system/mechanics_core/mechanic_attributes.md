@@ -16,7 +16,7 @@ Attributes are used to [[mechanic_rollResolution|roll]] to perform actions, by c
 
 Attributes also determine how much [[stat_stamina|Stamina]] and [[stat_resolve|Resolve]] PCs have (their capacity to withstand [[mechanic_injury|Injury]] and [[stat_stress|Stress]]).
 
-[[mechanic_conditions|Conditions]] or [[mechanic_injury|Injuries]] can reduce the Attribute ratings, and they can be regained through [[healing|healing]] and similar actions.
+[[mechanic_conditions|Conditions]] or [[mechanic_injury|Injuries]] can reduce the Attribute ratings, and they can be regained through [[mechanic_healing|Healing]] and similar actions.
 
 > You shouldn’t need to make any spoken reference to Attribute names during play.
 

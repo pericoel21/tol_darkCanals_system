@@ -2,6 +2,7 @@
 tags:
   - mechanic
   - core
+  - metamechanic
 aliases:
   - Gear
   - Inventory
@@ -28,7 +29,7 @@ Keep more than one of them in the same slot, up to the maximum of their stack si
 
 ## Consumables
 Consumables are presented as full stacks. When a consumable is shown in a table or in the book, the accompanying number is the number of uses or individual items the stack comes with.
-> [[item_waterskin|Waterskin]] (5) means a single [[item_waterskin|waterskin]] contains 5 [[item_water|water rations]].
+> [[item_waterskin|Waterskin]] (5) means a single [[item_waterskin|waterskin]] contains 5 rations of [[water|water]].
 
 ### Tracking Consumables
 Use the small fields in the inventory to track properties like rust, damage, number of arrows in a quiver, maximum stacks, amounts...

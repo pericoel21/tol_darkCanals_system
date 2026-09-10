@@ -2,6 +2,7 @@
 tags:
   - core
   - mechanic
+  - metamechanic
 aliases:
   - Degrees of Success
 connections:

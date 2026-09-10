@@ -5,6 +5,7 @@ tags:
 aliases:
   - Dying
 connections:
+  - "[[mechanic_funeral|Funeral]]"
 description: Dying, implications and handling of a corpse
 ---
 # `= this.file.aliases[0]`

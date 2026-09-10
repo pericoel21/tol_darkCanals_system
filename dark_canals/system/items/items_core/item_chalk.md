@@ -8,7 +8,7 @@ aliases:
 connections:
   - "[[magic_ritualCasting|Ritual Circle]]"
 description: Drawing marks or ritual circles
-size: 0
+item-size: 0
 stack:
 kit:
   - "[[item_kit_dungeoneer|Dungeoneer's Kit]]"
@@ -18,4 +18,4 @@ kit:
 
 | Size          | Stack          |
 | ------------- | -------------- |
-| `= this.size` | `= this.stack` |
+| `= this.item-size` | `= this.stack` |

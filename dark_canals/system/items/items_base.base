@@ -1,0 +1,43 @@
+filters:
+  and:
+    - file.path.contains("items/items")
+    - '!file.name.contains("_base")'
+formulas:
+  Name: aliases[0]
+views:
+  - type: table
+    name: All Items
+    order:
+      - file.name
+      - formula.Name
+      - size
+      - stack
+      - kit
+      - description
+    sort: []
+    columnSize:
+      file.name: 48
+      formula.Name: 179
+      note.description: 928
+  - type: table
+    name: By Kit
+    filters:
+      and:
+        - "!kit.isEmpty()"
+    groupBy:
+      property: kit
+      direction: ASC
+    order:
+      - file.name
+      - formula.Name
+      - size
+      - stack
+      - description
+    sort:
+      - property: formula.Name
+        direction: ASC
+    markers: bullet
+    indentProperties: false
+    columnSize:
+      file.name: 44
+      formula.Name: 172

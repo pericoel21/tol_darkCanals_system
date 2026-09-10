@@ -6,7 +6,7 @@ aliases:
   - Rope
 connections:
 description: Half a chain
-size: 1
+item-size: 1
 stack: 5
 kit:
   - "[[item_kit_climber|Climber's Kit]]"
@@ -16,4 +16,4 @@ kit:
 
 | Size          | Stack          |
 | ------------- | -------------- |
-| `= this.size` | `= this.stack` |
+| `= this.item-size` | `= this.stack` |

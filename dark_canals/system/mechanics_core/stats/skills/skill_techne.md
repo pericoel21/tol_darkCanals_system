@@ -19,10 +19,10 @@ Associated [[mechanic_attributes|Attribute]]: `=this.connections[0]`
 Uses:
 - Use this whenever fine motor control is required.
 - Operating machinery.
-- Crafting, or repairing.
+- [[mechanic_crafting|Crafting]], [[mechanic_armourRepair|Repairing Armour]], [[repairingWeapons]]
 - Creating art.
-- Picking a lock.
-- Disarming or setting a trap
-- Fishing.
+- Picking a lock (see [[item_lockpickSet|Lock Pick Set]]).
+- Disarming or setting a trap (see [[mechanic_foragingHunting|Huting]]).
+- [[mechanic_foragingHunting|Fishing]].
 
 ![[mechanic_difficulty#Broad Fields & Specialist Skills]]

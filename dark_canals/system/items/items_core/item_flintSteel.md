@@ -8,7 +8,7 @@ connections:
   - "[[mechanic_makingCamp|Making Camp]]"
   - "[[item_torch|Torch]]"
 description: Start fires, light torches
-size: 0
+item-size: 0
 stack:
 kit:
   - "[[item_kit_survivalist|Survivalist's Kit]]"
@@ -18,4 +18,4 @@ kit:
 
 | Size          | Stack          |
 | ------------- | -------------- |
-| `= this.size` | `= this.stack` |
+| `= this.item-size` | `= this.stack` |

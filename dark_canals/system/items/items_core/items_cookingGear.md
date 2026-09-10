@@ -11,7 +11,7 @@ connections:
   - "[[item_cookedFood|Cooked Food]]"
   - "[[item_ration|Rations]]"
 description: For turning raw food into rations
-size: 2
+item-size: 2
 stack: 1
 kit:
 ---
@@ -20,4 +20,4 @@ kit:
 
 | Size          | Stack          |
 | ------------- | -------------- |
-| `= this.size` | `= this.stack` |
+| `= this.item-size` | `= this.stack` |

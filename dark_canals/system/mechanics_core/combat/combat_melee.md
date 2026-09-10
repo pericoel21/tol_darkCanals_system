@@ -20,13 +20,14 @@ description: Melee combat is a dance of actios, counteractions and stamina manag
 
 ## Rolling the Attack
 - Attacker uses [[skill_fight|FIGHT]] and declares [[combat_hitLocations|Hit Location]].
+> Remember to also cite [[mechanic_itemTraits|Weapon Traits]].
 - [[mechanic_opposedRolls|Opposed Roll]] against target's [[skill_mobility|MOBILITY]], [[skill_physique|PHYSIQUE]] or [[skill_fight|FIGHT]], depending on [[combat_reactionsAndCounteractions|Reaction or Counteraction]].
 - GM rolls for the [[combat_hitLocations|Hit Location]].
 
 ### Difficulties when Attacking
 #### Target Size
-- For each [[sizeCategory|Size Category]] `LARGER` than the attacker, the [[mechanic_difficulty|Difficulty]] gets `EASIER`.
-- For each [[sizeCategory|Size Category]] `SMALLER` than the attacker, the [[mechanic_difficulty|Difficulty]] gets `HARDER`.
+- For each [[mechanic_size|Size]] `LARGER` than the attacker, the [[mechanic_difficulty|Difficulty]] gets `EASIER`.
+- For each [[mechanic_size|Size]] `SMALLER` than the attacker, the [[mechanic_difficulty|Difficulty]] gets `HARDER`.
 
 #### Prone
 - A [[prone|Prone]] attacker rolls `HARDER` against standing targets.

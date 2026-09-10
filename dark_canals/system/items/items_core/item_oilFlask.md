@@ -5,9 +5,9 @@ tags:
 aliases:
   - Oil Flask
 connections:
-  - "[[item_weapon|Weapons]]"
+  - "[[weapons_hub|Weapons]]"
 description: For maintaining weapons & as fuel
-size: 1
+item-size: 1
 stack: 5
 kit:
   - "[[item_kit_craftsman|Craftsman's Kit]]"
@@ -17,4 +17,4 @@ kit:
 
 | Size          | Stack          |
 | ------------- | -------------- |
-| `= this.size` | `= this.stack` |
+| `= this.item-size` | `= this.stack` |

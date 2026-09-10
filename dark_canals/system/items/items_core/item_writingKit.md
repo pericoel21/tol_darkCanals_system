@@ -6,7 +6,7 @@ aliases:
   - Writing Kit
 connections:
 description: Parchment, ink & quill for writing
-size: 1
+item-size: 1
 stack: 50
 kit:
   - "[[item_kit_thief|Thieves' Kit]]"
@@ -16,4 +16,4 @@ kit:
 
 | Size          | Stack          |
 | ------------- | -------------- |
-| `= this.size` | `= this.stack` |
+| `= this.item-size` | `= this.stack` |

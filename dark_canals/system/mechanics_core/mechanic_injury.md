@@ -1,5 +1,7 @@
 ---
 tags:
+  - core
+  - mechanic
 aliases:
   - Injury
   - Minor Injury
@@ -65,7 +67,7 @@ The injury is considered as a Lethal Injury to that location.
 On every turn after sustaining a Lethal Injury, the PC must succeed on an [[skill_endure|ENDURE]] [[mechanic_rollResolution|Roll]] or die.
 
 ### Stabilizing a Lethal Injury
-A stabilized Lethal Injury no longer needs [[skill_endure|ENDURE]] [[mechanic_rollResolution|Rolls]] each [[combat_turn|Combat Turn]], but still remains until [[healing|Healed]] regularly.
+A stabilized Lethal Injury no longer needs [[skill_endure|ENDURE]] [[mechanic_rollResolution|Rolls]] each [[combat_turn|Combat Turn]], but still remains until [[mechanic_healing|Healed]] regularly.
 
 While [[mechanic_fallUnconscious|Unconscious]], [[skill_endure|ENDURE]] [[mechanic_rollResolution|Rolls]] to avoid [[mechanic_death|Death]] from a Lethal Injury are at `EASY` [[mechanic_difficulty|Difficulty]].
 > Remember that a PC with lots of Attribute Damage or a Lethal injury can choose to fall unconscious.
