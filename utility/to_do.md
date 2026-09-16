@@ -38,6 +38,7 @@ kanban-plugin: list
 - [ ] connect [[item_bandages|Bandages]] to its rules
 - [ ] list of traits within [[mechanic_itemTraits|Traits]]
 - [ ] Do a file just for p127 (creating npcs on the fly)
+- [ ] Chase / race mechanics using distances. Tie in [[mechanics_vehicle]]
 
 
 ## WIP

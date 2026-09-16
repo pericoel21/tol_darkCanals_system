@@ -30,6 +30,8 @@ kanban-plugin: list
 - [ ] [[mechanic_size|Size]] Can size difference make it impossible to hit a creature that is too small?
 - [ ] Read immune to... (a no injury) p125
 - [ ] p128 repeats the first box (random encounters) outside the box inm the same page
+- [ ] PC sheet: lots of flipping from skills to proficiencies
+- [ ] Dungeoneering: How do I track time / distances?
 
 
 ## Spirit of the Law
@@ -65,10 +67,12 @@ kanban-plugin: list
 - [ ] A real ratio of [[mechanic_watches|Watch]] to translation for [[mechanic_researchTranslation|Research]]
 - [ ] [[mechanic_researchTranslation|Research]] rarities feel weird (their names) because they're too tied into time passing. I'd try to fit them more into a metamechanic
 - [ ] give [[npc_torchbearer|Torchbearer]] [[item_flintSteel|Flint & Steel]]
+- [ ] [[mechanic_profficiencies|Proficiency]] gives Danger Dice always
 
 
 ## Homebrewed
 
+- [ ] [[mechanics_dangerDice|Red Die]]
 
 
 ## Closed

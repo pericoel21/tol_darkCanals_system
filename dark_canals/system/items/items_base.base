@@ -10,13 +10,13 @@ views:
     order:
       - file.name
       - formula.Name
-      - size
+      - item-size
       - stack
       - kit
       - description
     sort: []
     columnSize:
-      file.name: 48
+      file.name: 70
       formula.Name: 179
       note.description: 928
   - type: table
@@ -30,7 +30,7 @@ views:
     order:
       - file.name
       - formula.Name
-      - size
+      - item-size
       - stack
       - description
     sort:

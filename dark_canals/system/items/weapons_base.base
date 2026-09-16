@@ -13,8 +13,8 @@ views:
     order:
       - file.name
       - formula.Name
+      - item-size
       - weapon-type
-      - size
       - traits
       - injury
       - description
