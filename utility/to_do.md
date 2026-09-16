@@ -15,6 +15,8 @@ kanban-plugin: list
 - [ ] [[mechanic_helping|Help]] is basically pieced together. Confirm with Matt.
 - [ ] Make the Player / Character / PC / NPC distinction clearer
 - [ ] [[combat_hitLocations|Hit Locations]] Create mermaid chart
+- [ ] Check https://discord.com/channels/@me/1507762010367201351/1549126436106014751 (Outgunned) mechanics. Progression is cool because it happens just before the dramatic boss fight
+- [ ] Holy Mountain Shaker, an adventure for OSE has a cool section on point crawls that I feel we can import almost unchanged to DC
 
 
 ## To Do
