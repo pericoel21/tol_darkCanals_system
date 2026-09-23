@@ -16,10 +16,7 @@ description: Managing distances in combat
 > `= this.description`.
 
 ## Zones & Rooms
-- *Zone:* Area of **significant distance.**
-- Called **Room** if indoors.
-- *Rough length:* Half a Chain (5 - 10 meters).
-- Average character can move a chain (~20m, two Zones) in one [[combat_turn|Combat Turn]].
+![[combat_zone]]
 
 ## Range Bands
 

@@ -8,7 +8,7 @@ aliases:
   - FLESH
   - FLESH (Form)
 connections:
-description: Corporea. Humanoid flesh.
+description: Corporea; humanoid flesh
 ---
 # `= this.file.aliases[0]`
 > `= this.description`.

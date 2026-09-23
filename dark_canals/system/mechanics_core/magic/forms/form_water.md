@@ -8,7 +8,7 @@ aliases:
   - WATER
   - WATER (Form)
 connections:
-description: Elemental. Liquids and ice.
+description: Elemental; liquids and ice
 ---
 # `= this.file.aliases[0]`
 > `= this.description`.

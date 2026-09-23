@@ -8,7 +8,7 @@ aliases:
   - AIR
   - AIR (Form)
 connections:
-description: Elemental. Gases and weather.
+description: Elemental; gases and weather
 ---
 # `= this.file.aliases[0]`
 > `= this.description`.

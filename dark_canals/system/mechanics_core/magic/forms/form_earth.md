@@ -8,7 +8,7 @@ aliases:
   - EARTH
   - EARTH (Form)
 connections:
-description: Elemental. Rock and stone.
+description: Elemental; rock and stone
 ---
 # `= this.file.aliases[0]`
 > `= this.description`.

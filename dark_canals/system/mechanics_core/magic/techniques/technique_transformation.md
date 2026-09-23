@@ -8,7 +8,7 @@ aliases:
   - TRANSFORMATION
   - TRANSFORMATION (Technique)
 connections:
-description: Giving something natural qualities.
+description: Giving something natural qualities
 ---
 # `= this.file.aliases[0]`
 > `= this.description`.

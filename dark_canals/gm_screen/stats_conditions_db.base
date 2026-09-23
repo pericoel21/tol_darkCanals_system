@@ -4,26 +4,14 @@ filters:
 formulas:
   Beauty Name: aliases[0]
   Associated Stat: connections[0]
+properties:
+  formula.Beauty Name:
+    displayName: Name
+  formula.Associated Stat:
+    displayName: Associated Attribute
 views:
-  - type: table
-    name: Core Mechanics
-    filters:
-      and:
-        - file.tags.containsAll("core", "mechanic")
-        - '!file.tags.containsAny("skill", "stat")'
-    order:
-      - file.name
-      - formula.Beauty Name
-      - description
-      - tags
-      - aliases
-    columnSize:
-      file.name: 37
-      note.description: 553
-      note.tags: 290
-      note.aliases: 196
   - type: cards
-    name: Skills
+    name: Skills per Attribute
     filters:
       and:
         - file.tags.contains("skill")
@@ -42,7 +30,7 @@ views:
       note.description: 412
     cardSize: 350
   - type: table
-    name: Stats (All)
+    name: PC Stats (All)
     filters:
       and:
         - file.tags.contains("stat")
@@ -65,4 +53,11 @@ views:
         - file.tags.contains("condition")
     order:
       - formula.Beauty Name
-      - connections
+      - formula.Associated Stat
+      - description
+    sort:
+      - property: formula.Associated Stat
+        direction: ASC
+      - property: formula.Beauty Name
+        direction: ASC
+    cardSize: 340

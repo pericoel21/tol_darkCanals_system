@@ -8,7 +8,7 @@ aliases:
   - EVOCATION
   - EVOCATION (Technique)
 connections:
-description: Making something a better version of itself, including bringing it into existence.
+description: Making something a better version of itself, including bringing it into existence
 ---
 # `= this.file.aliases[0]`
 > `= this.description`.

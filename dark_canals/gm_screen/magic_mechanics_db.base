@@ -1,0 +1,42 @@
+filters:
+  and:
+    - file.path.startsWith("dark_canals")
+formulas:
+  Beauty Name: aliases[0]
+  Associated Stat: connections[0]
+properties:
+  formula.Beauty Name:
+    displayName: Name
+  formula.Associated Stat:
+    displayName: Associated Attribute
+views:
+  - type: cards
+    name: Forms and Techniques
+    filters:
+      or:
+        - file.tags.contains("form")
+        - file.tags.contains("technique")
+    groupBy:
+      property: file.tags
+      direction: ASC
+    order:
+      - file.name
+      - formula.Beauty Name
+      - description
+    sort:
+      - property: description
+        direction: ASC
+    cardSize: 380
+  - type: table
+    name: Magic Mechanics
+    filters:
+      and:
+        - file.tags.contains("magic")
+        - '!file.tags.contains("form")'
+        - '!file.tags.contains("technique")'
+    order:
+      - file.name
+      - formula.Beauty Name
+      - description
+    columnSize:
+      file.name: 101

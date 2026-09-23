@@ -1,0 +1,29 @@
+filters:
+  and:
+    - file.path.startsWith("dark_canals")
+formulas:
+  Beauty Name: aliases[0]
+  Associated Stat: connections[0]
+properties:
+  formula.Beauty Name:
+    displayName: Name
+  formula.Associated Stat:
+    displayName: Associated Attribute
+views:
+  - type: table
+    name: Core Mechanics (all)
+    filters:
+      and:
+        - file.tags.containsAll("core", "mechanic")
+        - '!file.tags.containsAny("skill", "stat")'
+    order:
+      - file.name
+      - formula.Beauty Name
+      - description
+      - tags
+      - aliases
+    columnSize:
+      file.name: 37
+      note.description: 553
+      note.tags: 290
+      note.aliases: 196

@@ -1,0 +1,75 @@
+filters:
+  and:
+    - file.path.startsWith("dark_canals")
+formulas:
+  Beauty Name: aliases[0]
+  Associated Stat: connections[0]
+properties:
+  formula.Beauty Name:
+    displayName: Name
+  formula.Associated Stat:
+    displayName: Associated Attribute
+views:
+  - type: cards
+    name: Distances (Combat)
+    filters:
+      and:
+        - file.path.contains("combat/range")
+        - file.tags.contains("range-band")
+    order:
+      - formula.Beauty Name
+      - description
+      - zone-relation
+      - medieval-distance
+      - meters
+      - ft
+    sort:
+      - property: index
+        direction: ASC
+    columnSize:
+      file.name: 59
+      note.description: 204
+    cardSize: 340
+  - type: cards
+    name: Reactions & Counteractions
+    filters:
+      or:
+        - file.path.contains("combat/reactions")
+        - file.path.contains("combat/counteractions")
+        - or:
+            - file.tags.contains("reaction")
+            - file.tags.contains("counteraction")
+    groupBy:
+      property: file.tags
+      direction: ASC
+    order:
+      - formula.Beauty Name
+      - description
+      - formula.Associated Stat
+    cardSize: 380
+  - type: table
+    name: Combat Mechanics
+    filters:
+      and:
+        - file.tags.containsAll("core", "mechanic", "combat")
+        - '!file.tags.containsAny("reaction", "counteraction")'
+    order:
+      - file.name
+      - formula.Beauty Name
+      - description
+    columnSize:
+      file.name: 37
+      note.description: 553
+      note.tags: 290
+      note.aliases: 196
+  - type: table
+    name: Hazards
+    filters:
+      and:
+        - file.tags.contains("hazard")
+    order:
+      - file.name
+      - formula.Beauty Name
+      - description
+    columnSize:
+      file.name: 74

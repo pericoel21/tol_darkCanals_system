@@ -8,7 +8,7 @@ aliases:
   - BEAST
   - BEAST (Form)
 connections:
-description: Corporea. Non-humanoid animals and the like.
+description: Corporea; non-humanoid animals and the like
 ---
 # `= this.file.aliases[0]`
 > `= this.description`.

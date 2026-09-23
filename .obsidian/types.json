@@ -27,6 +27,7 @@
     "inventory": "multitext",
     "item-size": "number",
     "stack": "number",
-    "size": "text"
+    "size": "text",
+    "index": "number"
   }
 }

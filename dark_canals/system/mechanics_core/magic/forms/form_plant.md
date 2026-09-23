@@ -8,7 +8,7 @@ aliases:
   - PLANT
   - PLANT (Form)
 connections:
-description: Corporea. Vegetation.
+description: Corporea; vegetation
 ---
 # `= this.file.aliases[0]`
 > `= this.description`.

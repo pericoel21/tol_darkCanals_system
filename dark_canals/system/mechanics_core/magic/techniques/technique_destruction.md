@@ -8,7 +8,7 @@ aliases:
   - DESTRUCTION
   - DESTRUCTION (Technique)
 connections:
-description: Making something a worse version of itself.
+description: Making something a worse version of itself
 ---
 # `= this.file.aliases[0]`
 > `= this.description`.

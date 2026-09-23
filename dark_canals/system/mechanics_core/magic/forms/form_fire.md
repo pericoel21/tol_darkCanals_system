@@ -8,7 +8,7 @@ aliases:
   - FIRE
   - FIRE (Form)
 connections:
-description: Elemental. Heat and light.
+description: Elemental; heat and light
 ---
 # `= this.file.aliases[0]`
 > `= this.description`.
