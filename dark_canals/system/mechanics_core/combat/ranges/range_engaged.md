@@ -10,6 +10,7 @@ aliases:
 connections:
   - "[[combat_distance|Distances]]"
   - "[[combat_engagedStatus|Engaged Status]]"
+  - "[[combat_disengage|Disengaging]]"
 description: Close enough to stab
 zone-relation: "Engaged combatants are in the same Zone"
 index: 0
@@ -26,5 +27,4 @@ _Zone relation:_ `=this.zone-relation`.
 | ------------------------- | -------------- | ---------- |
 | `=this.medieval-distance` | `=this.meters` | `=this.ft` |
 
-## Mechanics
-![[combat_engagedStatus]]
+> See [[combat_engagedStatus]]

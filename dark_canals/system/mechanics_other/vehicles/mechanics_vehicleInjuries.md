@@ -4,7 +4,7 @@ tags:
   - homebrew
   - mechanic
 aliases:
-  - Vehicle Wounds
+  - Vehicle Injuries
 connections:
 description:
 ---

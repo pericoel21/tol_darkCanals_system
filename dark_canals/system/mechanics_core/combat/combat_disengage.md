@@ -7,12 +7,15 @@ aliases:
   - Disengage
   - Disengaging
 connections:
+  - "[[combat_engagedStatus|Engaged Status]]"
+  - "[[range_engaged|Engaged Range]]"
+  - "[[combat_distance|Distances in Combat]]"
 description: A character that retires from a melee might suffer attacks from enemies they're engaged in combat with
 ---
 # `= this.file.aliases[0]`
 > `= this.description`.
 
-When a character **moves further from [[combat_distance|Engaged range]]** with an enemy, that enemy might attack the character.
+When a character **moves further from [[range_engaged|Engaged range]]** with an enemy (abandoning their [[combat_engagedStatus|Engaged Status]]), that enemy might attack the character.
 
 After a Disengage attack is performed (successful or not), **no other [[combat_reactionsAndCounteractions|Reactions or Counteractions]] can be taken.**
 
@@ -26,5 +29,6 @@ If a PC wants to retreat from [[combat_distance|Engaged Range]] with an enemy, o
 | Partial Success                                              | Enemy hits the PC with a [[combat_melee#Result of the Attack Roll\|Glancing Blow]]. |
 | Fail                                                         | Enemy hits the PC                                                                           |
 | Fail by two [[mechanic_degreesOfSuccess\|Degrees of Success]] | Enemy hits the PC with a [[combat_melee#Result of the Attack Roll\|Heavy Blow]].    |
+
 ## Enemy Disengagement
 If an enemy attempts to Disengage or move past a PC, the PC makes an [[combat_melee|Attack]], with the [[mechanic_difficulty|Difficulty]] set by the enemy's [[skill_mobility|MOBILITY]].

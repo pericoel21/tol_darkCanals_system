@@ -9,9 +9,11 @@ aliases:
   - Engaged
 connections:
   - "[[range_engaged|Engaged Range]]"
-description:
+description: Disambiguation to clarify the relation between the engaged distance, engaged status and disengaging in combat
 ---
 # `= this.file.aliases[0]`
 > `= this.description`.
 
-- [[combat_disengage|Disengaging]]
+![[range_engaged|Engaged Range]]
+
+![[combat_disengage]]

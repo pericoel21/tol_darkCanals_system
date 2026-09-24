@@ -16,7 +16,7 @@ Associated [[mechanic_skills|Skill]]: `= this.connections[0]`
 > `= this.description`.
 
 Allows the user to **move one [[combat_distance|Range Category]]** from the enemy:
-- *Moving Further:* Counts as [[combat_disengage|Disengage]].
+- *Moving Further:* Counts as [[combat_disengage|Disengaging]].
 - *Moving Closer:* Can initiate a [[combat_grappling|Grapple]].
 
 Used by [[mechanic_rollResolution|rolling]] [[skill_mobility|MOBILITY]], usually [[mechanic_opposedRolls|Opposed]] by [[skill_fight|FIGHT]]:
